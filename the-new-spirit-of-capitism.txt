@@ -1,0 +1,1165 @@
+# Notes for Luc Boltanksi and Eve Chiapello The New Spirit of Capitalism
+
+Key concepts: artistic critique, bureaucracy, cadres, calculation centers, cities, connexionism, employability, exit critique, great man, ideology, manager, neo-management, normativity, reticular ontology, rhizomorphous ontology, social critique, spirit of capitalism, technostructure, tests of status, tests of strength, vocation.
+Related theorists: Michel Aglietta, Gary Becker, James Beniger, Fernand Braudel, Michel Callon, Gilles Deleuze, Louis Dumont, Emile Durkheim, Francois Furet, Albert Hirschman, Ivan Illich, Bruno Latour, C. S. Peirce, Michel Serres, Kiyokazu Washida, Max Weber.
+
+PREFACE TO THE ENGLISH EDITION
+I. 1994-2003
+
+The reference to capitalism
+
+Capitalism seems to have fallen out of critical discourse, so look at its use in French sociology over last thirty years.
+
+(ix) A first feature – which, given our subject matter, is not unimportant – was quite simply that virtually no one, with the exception of a few allegedly archaic Marxists (an 'endangered species'), referred to capitalism any longer. . . . If anglophone authors, particularly Americans, continued to use the term, no doubt because it was less associated with communism in their intellectual and political culture than it is in ours, sociologists and economists in the old world preferred to forget it. Obviously, this was in startling contrast to the ubiquitous reference to capitalism in the 1960s and 1970s. In order to get a clearer idea of what we were aiming to do, we must go back over the fate of the reference to capitalism in French sociology in the last thirty years.
+
+Marxist and Althusser dominant paradigm in 1960s and 1970s; dual orientation of positivism and tradition.
+
+(ix-x) In the 1960s and 1970s, reference to capitalism was inspired, in various degrees of orthodoxy, by Marxism, which became – especially with the revival occasioned by Althusserianism – a dominant paradigm. . . . On the one hand, their aim was to reactivate a positivist conception of the social world and a scientistic vision of history (the social 'forces' that escape the consciousness of social actors; and history itself follows a course that does not directly depend upon the volition of the human beings subject to it). On the other hand, they sought to remain in the closest possible contact with the social movements that developed in these years and to their critical vanguard.
+(x) Now, in our view, this dual orientation comes up against the problem of values and, in particular, moral values and ideals.
+(x) The same antimony recurs at the level of action.
+
+## Critical sociology replaced by sociology of critique for indifference to actors.
+
+(xi) A critical sociology indifferent to the values that actors claim to adhere to must therefore be replaced by a sociology of critique.
+
+Construct framework for combining critical and pragmatic sociology based on analytic framework of De la justification affording analysis of supra-individual entities, focusing on 1965 through 1995.
+
+(xii-xiii) We sought to construct a framework that makes it possible to combine approaches in terms of critical sociology, referring to supra-individual entities (especially capitalism) with the capacity to affect a large number of people over a long period, and approaches derived from pragmatic sociology, stressing action, the normative exigencies that intentional actions claim to be inspired by, and critical operations in particular, by pursuing the programme of a sociology of critique. . . . In particular, we employed the analytical framework presented in [Boltanksi and Thevenot] De la justification, which highlights the critical and justificatory operation performed by people in everyday situation, and offers a model of general conventions and forms of equivalence that make it possible to confer legitimacy on justification and critique. But rather than describing critical operations in limited situations on a case-by-case basis, our objective was to highlight the role played by critique in the dynamic of capitalism, and to construct a model of normative change.
+
+Revival of capitalism following crisis led to construction of new normative fulcrum of projective city; compare range of years to rise of personal computer and Internet.
+(xiii) This book focuses on the years 1965 to 1995. This period is especially auspicious for such a project. It was initially marked (1965-75) by an intensive critical movement, coinciding with a crisis of capitalism. Then, in a subsequent phase (1975-90), critique was brought to heed concurrently with a transformation and revival of capitalism. This revival finally led, in the 1990s, to the gradual construction of a new normative fulcrum – a new 'city' in the sense given the term by De la justification.
+
+Studying critique and being critical
+
+Distinction between social and artistic critique, emphasizing exploitation and dehumanization as its targets.
+
+(xiii) To reconstruct a critical sociology on the basis of the sociology of critique by hybridizing it with the old thematic of capitalism: such was our ambition. . . . Here we encounter the distinction, which constitutes a leitmotiv of this book, between social critique (associated with the history of the working-class movement, and stressing exploitation) and what we have called the artistic critique (derived from intellectual and artistic circles, especially nineteenth-century Parisian Bohemia, this takes the dehumanization of the capitalist sphere as its particular target).
+
+## Practical implications limited to twelve page Postscript.
+
+(xiv) We deliberately limited ourselves when it came to setting out the practical implications of our analyses (what we were bound to say is contained in a twelve page Postscript).
+
+Analysis of the French case to limit scope of details and for lack of resources; compare to later discussion of asymmetry of Latour calculation centers.
+
+(xiv) One consequence of this determination to stick to details, combined with a lack of financial resources to assemble a huge work team (but such gigantic projects often have the deleterious effect of industrializing research), was that we were obliged to restrict ourselves for the most part to the French case.
+
+## Reformist analyses but not revolutionary; capitalism assimilates critique.
+
+(xiv) This is also to say that the forms of critique indicated by our analyses (if they must be characterized, they might be dubbed 'reformist') are not 'revolutionary'. . . . In particular, we reject one of the implications of this conception, which is that it releases critique from the requirement of developing the normative standpoint that grounds it, inasmuch as it is bound up with the belief that no normative position is attainable in the world as currently constituted, or even really imaginable as long as the revoluation remains to be made.
+(xv) We are confirmed in this position by what our analyses have taught us of capitalism's ability to assimilate critique.
+
+## Projective city.
+
+(xv) In particular, this explains why we have examined so closely the mechanisms that aim to introduce new forms of security and justice into a universe where flexibility, mobility and network forms of organization had become basis reference points – mechanisms proposed by jurists or economists, among others, which were being discussed in the second half of the 1990s. At a theoretical level, analysis of these mechanisms allowed us to give substance to the projective city – a new normative fulcrum that we think is in the process of being formed – while from a more practical standpoint, it enabled us to identify some of the points which critique seemed best placed to latch on to.
+
+How do things stand with critique? Expansion and confusion
+
+Plenty of critiques of globalization but stagnation in establishing mechanisms to control new forms of capitalism.
+
+(xvi) Especially noteworthy has been the speed with which critiques developed in different countries have converged on a comprehensive critique of globalization, with its high points of Seattle, Genoa or Porto Alegre.
+(xvi) On the other hand, however, we have witnessed virtual stagnation when it comes to establishing mechanisms capable of controlling the new forms of capitalism and reducing their devastating effects.
+
+2. REPLIES TO SOME CRITIQUES
+
+Conventions economics and regulation theory
+
+The underestimation of technological innovations
+
+Follow Latour analyses to demonstrate social dimensions of technological change.
+
+(xix) But we have tried to pose the problem differently, so as not to isolate an independent variable in the shape of technology. As has been cogently demonstrated in the new sociology of science, technological changes are far from being independent of other dimensions of social existence. If, for example, we follow Bruno Latour's analyses, we see that numerous aspects which might readily be characterized as 'moral' are embedded in technological options.
+
+The relationship to Marxism: Beyond the base/superstructure dichotomy
+(xix-xx) Effecting a marked separation between ideas and the real world, and ignoring their interconnection, their interwoven, conjoint production, their reciprocal influence, such a conception always prompts a lapse into narrow definitions of ideology as a mask or mirror, constantly posing the question of the chicken and the egg.
+
+The sense we give to the term 'ideology'
+
+Critique has impact on the world; trends recommended by management literature proven widely diffused, so wrong to consider merely ideological.
+
+(xx) As we state on several occasions, the spirit of capitalism not only legitimates the accumulation process; it also constrains it. . . . And this is because we credit people with genuine critical capacities, and critique has an impact on the world.
+(xxi) On this point, our position is as follows: we think that a sufficient number of reliable and convergent statistical indicators now exist (supplied in particular by Labor Ministry surveys, which we cite abundantly in Chapter 4) to maintain that the trends recommended in 1990s management literature are widely diffused. It is therefore wrong to consider only the 'ideological' dimension of this literature, without perceiving its practical impact.
+
+A specifically French book?
+(xxi-xxii) Once again, we hope that future work, with a similar methodological approach, will make it possible to enrich a fine-grained vision of the way in which, under the impact of local variables, new constraints have been established that local economic and political actors can, in all good faith, have a sense of being subjected to from without, as if they were forces that it was difficult – even impossible – for them to oppose.
+
+The place of networks and its interpretation
+
+Social effects of network architecture based on Durkheim, emphasizing social conflicts provoking development; what is new is the societal project to make the network a normative model.
+
+(xxii) With respect to works, often adopting a broadly determinist position, that endeavor to define the social effects of new technologies based on a network architecture, we adopted a position that might be called Durkheimian (though it is also James Beniger's, for example, in his important book The Control Revolution). It consists emphasizing the social conditions and, more particularly, the social conflicts that provoked or encouraged the adoption or development of a particular technology. In this respect, it is striking to see how the critique of close modalities of hierarchical surveillance at the end of the 1960s and beginning of the the 1970s preceded the full development of technologies allowing for effective remote control in real time by then or twenty years.
+(xxii) As we took the trouble to make clear on several occasions, we certainly do not think – and here we follow the work of Fernand Braudel – that networks and the role played by mediators are novel phenomena. What is new, on the other hand, is precisely the societal project, to which much of the book is given over, aiming to make the network a normative model.
+
+Openness of networks makes it difficult to establish scale of justice, though members must accept regulatory instance, or state laying down the law; Galloway protocol would help here.
+
+Overarching level laying down law of otherwise open networks should be part of diachrony in synchrony framework.
+
+(xxii-xxiii) As works by French philosophers of networks like Michel Serres or, in other respects, Gilles Deleuze have shown, one of the basic properties of networks is that they are open. . . . The difficulty of establishing a scale of justice in networks stems precisely from the fact that it is not always known who is on the inside and who is on the outside. . . . Consequently, attempts to structure networks always involve a minimal formalization of a list of parties to it and the creation, if not of a state, then at least of a regulatory instance accepted by the 'members' – that is to say, of a second, overarching level that lays down 'the law'. In the process of so doing, it is clear that the network loses its fluidity, its openness, and thus its reticular character. To not this is not to be a centralizer at heart.
+
+Interesting invocation of Internet and free software as examples of self-organizing emancipatory force within networks, but doubts they can provide acceptable solutions to found a new city for lack of addressing the marginalized and disconnected.
+(xxiii) The same could be said of self-organization within networks, which is frequently presented today as a quasi-'revolutionary' emancipatory force (for example, in the case of the Internet or, to take a more specific example, debates about free software). The self-organization that develops in networks can certainly prove auspicious for innovation and innovators (as Michel Callon's works, which we cite, have indicated). But there is very little chance of it providing acceptable solutions in terms of social justice on its own, precisely because the network does not offer an overarching position allowing for consideration of those who find themselves on its margins, or even disconnected.
+
+The dual ontology of the social world
+
+Ontology of the social reveals two paradigms, rhizomorphous plane of immanence, and normative two tier permitting comparison of singular entities but therefore accused of succumbing to illusion of transcendence.
+
+(xxiii-xxiv) The questions raised by the way we use the notion of network refer, in the end, to a central aspect of our approach on the theoretical level. . . . For us, this dimension of our research is pretty fundamental, because it concerns what might be called the ontology of the social. To put it rapidly and crudely, social theory, especially French social theory (but in this respect French thought has had considerable influence on social science at a global level over the last thirty years), has periodically oscillated between two paradigms that appear to be incompatible.
+(xxiv) The first emphasizes force and the relations of force that are regarded as underlying the institutions, and legal and normative fulcra, on which actors claim to base their actions. . . . In the 1960s and 1970s, they were associated with the revival of Marxism through an injection of structuralism. More recently, they have instead been based upon a reticular or rhizomorphous ontology, especially in the form given it by Deleuze on the basis of an original reinterpretation of Spinoza and Nietzsche, whose works only belatedly had specific effects on social theory, so that they were only really important from, let us say, the mid-1980s.
+(xxiv) By contrast, the second paradigm, which was redeployed at the end of the 1970s and in the 1980s, when the decline of Marxism reopened the field of theoretical reflection, intends to underscore the real social role played by political institutions and political philosophy, by law, morality and, in general, normativity. In particular, it has relied on the oeuvre of Habermas Mark 2, but also in France on those of the historian Francois Furet, who played an important role in the return to political theory, and the philosopher Paul Ricoeur.
+(xxiv-xxv) The first, especially in its rhizomorphous forms, is based on an ontology containing only one tier or plane (the 'plane of immanence'). It knows only singularities or flows, the relationship between which assumes a reticular form and whose movements and relations are governed by a logic of forces. The second, in contrast, is intelligible only on condition that it posits a two-tier space, the first of which is occupied by singular entities – in particular, people – while the second is composed of principles of parity that make it possible to compare singular entities, to constitute them as categories or classes, and to make normative judgments about the relations between them. It is precisely this two tier structure that is condemned by the first paradigm as succumbing to the illusion of transcendence.
+
+Model of change seeks to integrate these paradigms, regime of categorization for normative and regime of displacement for rhizomorphous, in a single framework.
+
+(xxv) The originality of the model of change we propose is that it seeks to integrate the two paradigms we have just schematically invoked into a single theoretical framework. We have in fact tried to articulate two regimes of action in the social world. We called the first the regime of categorization. Set in motion by the impact of critique on the most important tests at a given moment in time, it relies on a two-tier metaphysic and leads to activating principles of equivalence (often by calling them into question), strengthening institutions, producing law, and prompting the deployment of moral justifications, which are expressed in particular in terms of justice.
+(xxv) We have also sought to highlight the role performed by a different regime, which we have called the regime of displacement. Dispensing with generalization and moral judgment, this regime is deployed on a single plane and generates forms the most satisfactory image of which is afforded by rhizomorphous algorithms.
+
+Some revisions on the issue of 'the lateness of critique'
+
+Formulating autocritique from flaw noted in their exposition: capitalism and critique simultaneously and interactively take charge of definition and categorization of the world through their capacities for displacement and inventiveness.
+
+(xxvi) To conclude, we would like to turn from responding to critiques to formulating an autocritique. It is as follows. Where tests are concerned, we equipped our actors with capacities for both displacement and categorization. Categorization consists in comparing singular events in a particular respect in order to connect them in a series. It is one of the basic operations people perform when they seek to give meaning to the world they live in, by deriving from it major invariants and a certain simplified image of the way it operates. Capacities for categorization are essential for 'tightening up tests'. Contrawise, displacements refer to people's actions inasmuch as they are not categorical and, more especially, in so far as they do not form part of established, identified and highly categorized tests – a feature which gives them a local, largely invisible character.
+(xxvi) What is involved is a flaw in our exposition: capacities for categorization and displacement, as anthropological capacities, are obviously uniformly distributed. . . . Hence capitalism and its critiques simultaneously, and interactively, take charge of the definition / categorization of thew world.
+(xxvii) Symmetrically, critique has significant capacities for displacement and inventiveness.
+
+View the book as research program subject to future clarification.
+
+(xxvii) On this point, as on many others, le nouvel esprit du capitalisme may be read as a research program rather than a fully finished work; as a summons to future work for the purposes of extending, clarifying or invalidating our suggestions, rather than as a dogmatic, self-sufficient summa.
+
+
+ACKNOWLEDGMENTS
+
+Acknowledge roles played by Prospero@ software, its inventors, and human preparation of files of management texts for processing.
+
+(xxix) Without the aid of Sophie Montant, we would not have been able – or not in a reasonable time-scale, at least – to complete the demanding and often thankless task of constructing the corpus of management texts and preparing the computer files for processing by the Prospero@ program. Its inventors – Francis Chateauraynaud and Jean-Pierre Charriaud – taught us how to use it proficiently.
+(xxx) We have jointly presented and tested out out a number of the themes developed in this book in various seminars.
+(xxx) To conclude, we must confess that as we wrote virtually every page of this book we could not help asking ourselves what Albert Hirschman, whose work, more than any other, sustained us throughout this long journey, would think of it. Hence it is only fitting that it should be dedicated to him.
+
+
+PROLOGUE
+
+Book inspired by perplexity over coexistence of declining social position of masses and booming capitalist economies.
+
+(xxxv) This book, the idea for which was conceived at the beginning of 1995, was born out of the perplexity, shared by numerous observers, created by the coexistence of a deterioration in the economic and social position of a growing number of people and a booming, profoundly restructured capitalism.
+
+The path to peak full employment and democratized republican school system diminishing under connexionist metanarrative.
+
+The promise in ideologization of May 1968 also crucial to Feenberg opposed by current condition in which new spirit of capitalism inhales everything towards leveling of project management evaluation.
+
+(xxxv) In many respects, we are living today in a situation that is the reverse of the late 1960s and early 1970s. Then capitalism was experiencing a fall in growth and profitability bound up, at least according to Regulationist analyses, with a slowdown in productivity gains that was associated with a continuous increase in real wages proceeding at the same pace as before. Critique, for its part, was at its zenith, as demonstrated by the events of May 1968, which combined a social critique of a fairly classical Marxist stamp with demands of a very different kind, appealing to creativity, pleasure, the power of the imagination, to a liberation affecting every dimension of existence, to the destruction of the 'consumer society', and so on. As for the macroeconomic environment, it was that of a full-employment society whose leaders endlessly repeated that it was 'progress-orientated', a society in which people had hopes of a better life for their children, and where demands developed – backed up by denunciation of unequal opportunities for access to the education system – for social advancement open to all via a democratized republican school system.
+
+Operates in same milieu provoking Latour to announce why critique has run out of steam and need to update analytical tools.
+
+(xxxv) The questions behind this book derive from the well-nigh total reversal of this situation and the weak critical resistance that was ultimately mounted against it.
+
+A revived capitalism and a worsening social situation
+
+Deregulation of financial markets real effect of appropriated critique worsening social situation.
+
+Consider influencing power of concentrated assests as type of collective machinic presence, seemingly reflecting cognition.
+
+(xxxvi) According to these authors, the finances of French firms have very largely recovered under the dual impact of reduced taxation and a division between profits and wages that is much more advantageous to firms.
+(xxxvii) The deregulation of financial markets, their decompartmentalization, and the creation of 'new financial products' have multiplied the possibilities of purely speculative profits, whereby capital expands without taking the form of investment in productive activity. . . . The liquid assets concentrated in the hands of mutual investment funds (SICAV), insurance companies and pension plans are such that their capacity to influence the markets in accordance with their interests is a recognized fact.
+
+Multinational firms embody winners opposed to which the majority individuals are losers merely riding technological waves not steering it as cyberspace presence.
+(xxxvii) Multinational firms, too, emerged as winners from these years of redeployment of world capitalism. . . . But while the impact of multinationals is a major economic phenomenon, there is virtually no study devoted to them.
+
+Flexibility in OECD countries whittling down social security via temporary workforce, flexible hours, reduced benefits, outsourced management.
+
+(xxxviii) Opportunities for hiring on a temporary basis, using a temporary workforce, flexible hours, and a reduction in the costs of layoffs, have developed considerably in all the OECD countries, gradually whittling down the social security systems established during a century of social struggles. At the same time, the new communication technologies, data communications in the forefront, have made it possible to handle orders in real time at a planetary level, providing for a hitherto unknown global capacity to adapt.
+
+World capitalism healthy, societies in poor shape situating populations of declining human intelligence, which will be called social regression.
+
+(xxxviii) World capitalism, understood as the possibility of making capital yield a profit through economic investment, is thus in good health. As for societies, to adopt the separation of the social and the economic that we have lived with for more than a century, they are in rather poor shape. . . . The United States has a lower rate of unemployment, but whereas wage-earners in France have pretty much maintained their purchasing power, it has undergone a marked decline there.
+(xxxix) Poverty affects old people less and less, and people of working age more and more.
+
+Family became more fluid and fragile, transferring social task of reproduction to schools, compounding insecurity.
+
+(xl) During these years of social regression, the family developed in ways whose effects are still far from having been calculated. It became a much more fluid and fragile institution, compounding job insecurity and the general sense of insecurity. . . . And the school system, to which the task of reproduction has been overwhelmingly transferred since the 1960s, is not in a position to satisfy the hopes once invested in it.
+
+The imperilment of the postwar model of society, and ideological disarray
+
+Cadres, meaning career plans, key concept for the limit of the little people bordering great men epitomizing new spirit of capitalism in humans.
+
+(xl) These changes endanger the compromise established in the postwar years around the theme of the rise of the 'middle class' and 'cadres', which represented a satisfactory solution to the anxieties of the petty bourgeoisie.
+
+Bourgeoisie supported by inheritance income in addition to salary, which is now primary source; now wage earning class of cadres career plans can live the bourgeois life.
+
+(xl-xli) In fact, we know that up to approximately the middle of the interwar period a salary was rarely the sole or even main means of support for members of the bourgeoisie, who also had significant inheritance income. . . . There thus emerged a new chance to live the 'bourgeois' life, this time within the wage-earning class.
+
+Point as been reached that cadres and their education-based plans losing advantage.
+
+Interesting that technical specialists form large percentage of these positions yet are putatively seldom studied such that they are only now being noticed as important (Ensmenger).
+(xli) Increased unemployment among university graduates and cadres has become patent, although it is infinitely lower than that of the less privileged. Furthermore, if firms still offer career prospects to those individuals they deem the most talented, they now refrain from guaranteeing them in the long term.
+
+No substitute for belief in progress, which has sustained the middle class.
+
+(xlii) Yet it must be observed that belief in progress (associated with capitalism since the beginning of the nineteenth century in various forms), which from the 1950s constituted the credo of the middle classes, whether they were professedly left- or right-wing, has found no substitute, apart from a scarcely inspiring invocation of the 'harsh laws of economics', rapidly stigmatized as la pensee unique.
+
+Ideological disarray; critical thought cannot keep up (Latour).
+
+(xlii) Ideological disarray has thus been one of the most evident features of recent decades, marked by the decline of the representations associated with the socioeconomic compromise established after the war, without any critical thought seemingly being in a position to track the changes under way.
+(xliii) Obviously, a social system that can no longer satisfy the classes it is supposed to serve in the first instance (i.e., in the case of capitalism, the bourgeoisie) is menaced, whatever the reasons for this failure, not all of which are under the control of the actors who possess (or believe they possess) power.
+
+Fatalism the corollary of waning critique regardless of disposition in larger scale future trends.
+
+(xliii) Our aim is to understand the waning of critique over the last fifteen years, and its corollary: the currently dominant fatalism, whether the recent changes are presented as inevitable but ultimately beneficial mutations, or as the product of systemic constraints whose results are ever more disastrous, but without it being possible to predict a change in trends.
+
+Possibilities to have an effect (Rushkin or Rushkoff, not sure if error).
+
+History as tool for denaturalizing the social.
+
+Goal of changing mindset to perspective of multiple processes affecting reality, as combination of rhizomorphous and normativity.
+
+Apply their methodology by opening black box of computer technology, which includes examining social groups, emerging digital humanities scholarship including Edwards, Ensmenger, Golumbia, Mackenzie, and so on layering on critical programming.
+
+(xliv) Our ambition has been to strengthen the resistance to fatalism, without thereby encouraging any retreat into nostalgia for the past, and to provoke in readers a change in mindset by helping them to consider the problems of the period differently, from an alternative perspective – that is to say, as so many processes on which it is possible to have some purchase. To this end, it seemed useful to us to open the black box of the last thirty years, in order to observe the way that human beings make their own history. In returning to the moment when things were decided, and making it clear that they could have taken a different turn, history represents the quintessential tool for denaturalizing the social; as a result, it goes hand in hand with critique.
+
+Ends prologue with reminder by Weber of need for embodied, interested viewpoint to differentiate phenomena from the confused flow of events, connecting diachrony in synchrony addition to Montfort and Bogost layer model.
+(xliv-xlv) In this sense, our intention was not merely sociological, directed towards knowledge, but geared to a revival of political action, understood as the formation and implementation of a collective will regarding our way of life. . . . For, as Max Weber taught us, without the aid of a 'viewpoint' involving values, how would it even be possible to select what warrants being noted, analyzed or described amid the confused flow of events?
+
+
+GENERAL INTRODUCTION
+ON THE SPIRIT OF CAPITALISM AND THE ROLE OF CRITIQUE
+
+Study proposes theoretical framework for alteration of ideologies associated with economic activity.
+
+Construe ideology nonreductively following Dumont as set of anchored, shared beliefs inscribed in institutions.
+
+(3) The subject of this book is the ideological changes that have accompanied recent transformations in capitalism. . . . It is not merely descriptive, but proposes, by way of this historical example, a more general theoretical framework for understanding the way in which the ideologies associated with economic activity are altered. We stipulate that the term 'ideology' is to be construed here not in the reductionist sense to which it has often been reduced in the Marxist vulgate – that is to say, a moralizing discourse, intended to conceal material interests, which is constantly contradicted by practice – but as developed, for example, in the work of Louis Dumont: a set of shared beliefs, inscribed in institutions, bound up with actions, and hence anchored in reality.
+
+Notion of spirit of capitalism essential to articulate dynamic relation between capitalism and critique.
+
+(4) To carry out this work, the notion of spirit of capitalism rapidly became essential for us, since it makes it possible to articulate the two central concepts on which our analyses are based – capitalism and critique – in a dynamic relation.
+
+THE SPIRIT OF CAPITALISM
+A minimal definition of capitalism
+
+Capitalism as unlimited, interminable accumulation of capital by formally peaceful means, distinguished from market economy that attempts to regulate it.
+
+(4) we shall employ the minimal formula stressing an imperative to unlimited accumulation of capital by formally peaceful means.
+(5) This detachment of capital from material forms of wealth gives it a generally abstract character, which helps make accumulation an interminable process.
+(5) Following Fernand Braudel, we shall therefore distinguish between capitalism and the market economy. On the other hand, the market economy was constructed 'step by step', and predates the appearance of capitalism's norm of unlimited accumulation. On the other hand, capitalist accumulation cedes to market regulation only when more direct routes to profit are closed to it.
+
+Capitalists formally include those possessing property income, but limit to active profit maximizers of firms.
+
+(6) In its broadest sense, the capitalist group thus encompasses all those who possess a property income – a group, however, that constitutes a minority only beyond a certain level of savings.
+(6) In this essay, we shall nevertheless reserve the term 'capitalists' first and foremost for the main actors responsible for the accumulation and expansion of capital, who directly pressurize firms to make maximum profits.
+
+Capitalism also characterized by voluntary subjection of wage earning class.
+
+(7) We shall also characterize capitalism by the wage-earning class. . . . The upshot is that, while the relation is unequal in the sense that the worker cannot survive for long without working, it is nevertheless markedly different from forced labor or slavery, and thus always involves a certain amount of voluntary subjection.
+
+The Necessity of a Spirit for Capitalism
+
+Spirit of capitalism is the ideology justifying engagement.
+
+(8) In fact, the quality of the commitment one can expect depends upon the arguments that can be cited to bring out not only the advantages which participation in capitalist processes might afford on an individual basis, but also the collective benefits, defined in terms of the common good, which it contributes to producing for everyone. We call the ideology that justifies engagement in capitalism 'spirit of capitalism'.
+
+Vocation as moral relationship to work (Weber).
+
+(9) Given the singular, even transgressive character of the kinds of behavior demanded by capitalism when compared with the forms of life exhibited in most human societies, Weber was led to defend the idea that the emergence of capitalism presupposed the establishment of a new moral relationship between human beings and their work. This was defined in the manner of a vocation, such that, regardless of its intrinsic interest and qualities, people could devote themselves to it firmly and steadily.
+
+To Hirschman Enlightenment secular thinking justified profit making in terms of common social good; lucre became innocuous passion for subjugating more aggressive passions.
+
+(9-10) In [Albert] Hirschman's interpretation, the secular thinking of the Enlightenment justifies profit-making activities in terms of society's common good. . . . In this way, lucre, hitherto first-placed in the order of disorders, was awarded the privilege of being selected as the innocuous passion which the task of subjugating aggressive passions henceforth rested upon.
+
+Study observed variations in spirit of capitalism, which is taken as given.
+
+(10) The spirit of capitalism is precisely the set of beliefs associated with the capitalist order that helps to justify this order and, by legitimating them, to sustain the forms of action and predispositions compatible with it.
+(11) Our intention is to study observed variations, not to offer an exhaustive description of all the constituents of the spirit of capitalism.
+
+What the spirit of capitalism is composed of
+
+Utilitarianism incorporated into economics connected profit creation with common good serving society.
+
+(12-13) the incorporation of utilitarianism into economics made it possible to regard it as self-evident that [quoting Dumont] 'whatever served the individual served society. By logical analogy, whatever created a profit (and thereby served the individual capitalist) also served society'. In this perspective, regardless of the beneficiary, increased wealth is the sole criterion of the common good.
+
+Commoditization of services by competitive private enterprise deemed socially optimal solution because of dual drive to maximize profit through reducing waste and satisfy customers, including anticipating their expectations.
+(13) Likewise, although they are oriented towards capital accumulation, capitalists find themselves obliged to satisfy consumers in order to achieve their own ends. Thus it is that, by extension, competitive private enterprise is always deemed more effective and efficient than non-profit-making organizations (but this at the undisclosed price of transforming the art lover, the citizen, the student, children with respect to their theirs, from recipients of social services into consumers); and that the privatization and maximum commodification of all services appear to be the socially optimal solution, since they reduce the waste of resources and require anticipation of customers' expectations.
+
+Cadres and engineers are primary recipients of management discourse.
+
+(14) We shall see how management discourse, which aims to be formal and historical, general and local, which mixes general precepts with paradigmatic examples, today constitutes the form par excellence in which the spirit of capitalism is incorporated and received.
+(14) This discourse is first and foremost addressed to cadres, whose support for capitalism is particularly indispensable for running firms and creating profits.
+
+Constraint of maintaining tolerable distance between cadres and workers.
+
+(15) One of the constraints on their justification is the preservation of a culturally tolerable distance between their own condition and that of the workers whom they have to manage.
+(15) The justifications of capitalism that interest us here are thus not so much those referred to above, which capitalists or academic economists might elaborate for external consumption, particularly in the political world, but first and foremost those addressed to cadres and engineers.
+
+Spirit of capitalism peculiar to each age must assuage anxiety provoke by questions of autonomy, security, common good.
+
+(16) In terms that vary greatly historically, the spirit of capitalism peculiar to each age must thus supply resources to assuage the anxiety provoked by the following three questions.
+
+The different historical states of the spirit of capitalism
+
+First characterization of capitalism focused on person of bourgeois entrepreneur at end of nineteenth century; its amalgam of incompatible propensities led to charges of hypocrisy.
+
+(17) The first description, undertaken at the end of the nineteenth century – in novels as much as the social sciences proper – is focused on the person of the bourgeois entrepreneur and a description of bourgeois values. . . . Precisely this amalgam of very different, even incompatible propensities and values – thirst for profit and moralism, avarice and charity, scientism and familial traditionalism – which is at the root of the bourgeois self-division Francois Furet refers to, underlay what was to be most unanimously and enduringly denounced in the bourgeois spirit: its hypocrisy.
+
+Second characterization developing between 1930s and 1960s emphasized the organization and heroic manager; control transferred to technostructure.
+
+(17-18) A second characterization of the spirit of capitalism was most fully developed between the 1930s and the 1960s. Here, the emphasis is less on the individual entrepreneur than on the organization. Centered on the development at the beginning of the twentieth century of the large, centralized and bureaucratized industrial firm, mesmerized by its gigantic size, its heroic figure is the manager.
+(18) these developments were interpreted as so many indices of a profound change in capitalism, marked by an attenuation of class struggle, a separation between the ownership of capital and control of the firm, which was transferred to the 'technostructure', and as signs of the appearance of a new capitalism, propelled by a spirit of social justice.
+
+Third characterization of globalized capitalism employing new technologies.
+
+(19) The 'third' spirit, in its turn, will have to be isomorphic with a 'globalized' capitalism employing new technologies, to cite only the two aspects most frequently mentioned as characteristic of capitalism today.
+
+The origin of the justifications incorporated into the spirit of capitalism
+
+Cities as normative supports for constructing justifications
+
+Cities as general convention of justification appropriate to exploration in computer games like Sim City and Civilization.
+
+(22) Inasmuch as they are subject to an imperative of justification, social arrangements tend to incorporate reference to a kind of very general convention directed towards a common good, and claiming universal validity, which has been modeled on the concept of the city. Capitalism is no exception to this rule. What we have called the spirit of capitalism necessarily contains reference to such conventions, at least in those of its dimensions that are directed towards justice.
+
+Six logics of justifications of social arrangements articulated as cities with privileged forms of expression by their great men: inspirational, domestic, reputational, civic, commercial, industrial.
+
+(23) Six logics of justification, six 'cities', have been identified in contemporary society.
+(23) In the inspirational city, high status pertains to the saint who achieves a state of grace, or the artist who receives inspiration. It reveals itself in the clean body prepared by ascesis, whose inspired manifestations (holiness, creativity, artistic sense, authenticity, etc.) constitute the privileged form of expression. In the domestic city, high status depends upon people's seniority in a chain of personal dependencies. In a system of subordination established on a domestic model, the political bond between beings is conceived as a generalization of the generational link, combining tradition and proximity. The 'great man' is the elder, the ancestor, the father, to whom respect and fidelity are due, and who vouchsafes protection and support. In the reputational city, high status depends exclusively on the opinion of others – that is to say, on the number of people who confer their trust and esteem. The 'great man' in the civic city is the representative of a collective whose general will he expresses. In the commercial city, the 'great man' is he who enriches himself by supplying highly desirable commodities in a competitive market, by successfully passing the market test. In the industrial city, high status is based upon efficiency, and defines a scale of professional abilities.
+
+First spirit rooted in compromise between domestic and commercial, second industrial and civic cities.
+
+(24) When it refers to the common good, the second spirit of capitalism invokes justifications that rest upon a compromise between the industrial city and the civic city (and, secondarily, the domestic city), whereas the first spirit was rooted in a compromise between domestic and commercial justifications.
+
+Seventh city modeled on 1990 management texts for cadres and concrete proposals for improving French social justice.
+
+(24) In order to describe the 'residue', which cannot be interpreted in the language of the six existing cities, we have been led to model a seventh city, making it possible to create equivalences and justify positions of comparative status in a network world. In contrast to the work mentioned above, however, to systematize the arguments used we have relied not on a major text of political philosophy, but on a corpus of management texts from the 1990s – the fact that they are intended for cadres makes them an especially obvious receptacle for the new spirit of capitalism – and on an analysis of various concrete proposals being advanced today to improve social justice in France.
+
+The spirit of capitalism legitimates and constrains the accumulation process
+
+Take justification of capitalism to common good seriously to distance from polarizing critical approaches.
+
+(26) In taking the effects of the justification of capitalism by reference to a common good seriously, we distance ourselves both from critical approaches for which only capitalism's tendency to unlimited accumulation at any price is real, and the sole function of ideologies is to conceal the reality of all-powerful economic relations of force; and from apologetic approaches which, confusing normative supports and reality, ignore the imperatives of profit and accumulation, and place the demands for justice faced by capitalism at its heart.
+
+CAPITALISM AND ITS CRITIQUES
+
+The effects of critique on the spirit of capitalism
+
+Critique can delegitimate previous spirits.
+
+(28) First of all, it can delegitimate previous spirits and strip them of their effectiveness.
+
+Critique can justify capitalist processes in terms of common good.
+
+(28) A second effect of critique is that, in opposing the capitalist process, it compels its spokesmen to justify that process in terms of the common good.
+
+Critique can also cloud the issue.
+
+(29) We may suppose that, in certain conditions, it can elude the requirement of strengthening the mechanisms of justice by making itself more difficult to decipher, by 'clouding the issue'.
+
+Model of change through interplay of three terms of critique, organizing work, maintaining space between means and justice.
+
+(29) The model of change we shall employ rests upon the interplay between three terms. The first represents critique, and can be parameterized according to what it denounces (the objects of denunciation being, as we shall see, pretty various in the case of capitalism) and its vigor. The second corresponds to capitalism inasmuch as it is characterized by the mechanisms for organizing work, and ways of making a profit associated with it, at a given period. The third likewise denotes capitalism, but this time in so far as it integrates mechanisms intended to maintain a tolerable space between the means employed to generate profits (second term) and demands for justice relying on conventions whose legitimacy is acknowledged.
+
+The test.
+
+(30) There is one notion that helps us to articulate the three terms of capitalism, spirit of capitalism and critique: that of the test, which, in addition, represents an excellent vehicle for integrating exigencies of justice and relations of force into the same framework without reductionism.
+
+Tests of strength and legitimate tests
+
+Power conveyed by determination by tests of degree of amoral strength or just character status.
+
+(31) We shall say in the first instance (the test of strength) that at its conclusion the disclosure of power is conveyed by the determination of a certain degree of strength, and in the second (the legitimate test), by a judgment as to the respective is status of people. Whereas the attribution of strength defines a state of affairs without any more implications, the attribution of a status assumes a judgment that bears not only on the respective strength of the opposing parties, but also on the just character of the order disclosed by the test.
+
+Critique and tests intimately related in affecting capitalism.
+
+(32) Critique and tests are intimately related.
+(32) The impact of critique on capitalism operates by means of the effects it has on the central tests of capitalism.
+
+The role of critique in the dynamic of tests
+
+Reformist and revolutionary critique depending on how it affects tests.
+
+(33) From this second critical position, the critique that aims to rectify the test will itself often be criticized as reformist, in contrast to a radical critique that has historically proclaimed itself revolutionary.
+
+Two stage birth of new spirit of capitalism.
+
+(35) The birth of a new spirit of capitalism thus comes about in two stages, although this is a merely analytical distinction, since they broadly overlap. In the first, we witness the sketching of a general interpretative schema of the new mechanisms and the establishment of a new cosmology, allowing people to get their bearings and deduce some elementary rules of behavior. In the second, this schema is going to be refined in the direction of greater justice, with its organizing principles established, the reformist critique will strive to make the new tests that have been identified stricter.
+
+The historical forms of the critique of capitalism
+
+Domain of emotions and reflexive levels of expression of critique.
+
+(36) This is why there are actually two levels in the expression of any critique: a primary level – the domain of the emotions – which can never be silenced, which is always ready to become inflamed whenever new situations provoking indignation emerge; and a secondary level – reflexive, theoretical and argumentative – that makes it possible to sustain ideological struggle, but assumes a supply of concepts and schemas making it possible to connect the historical situation people intend to criticize with values that can be universalized.
+
+Four sources of indignation: disenchantment and inauthenticity, oppression, poverty and inequalities, opportunism and egoism.
+
+(37) While capitalism has changed since its formation, its 'nature' has not been radically transformed. As a result, the sources of indignation that have continually fueled criticism of it have remained pretty much the same over the last two centuries.
+
+Artistic and social critique.
+
+(38) Consequently, the bearers of these various grounds for indignation and normative fulcra have been different groups of actors, although they can often be found associated in a particular historical conjuncture. Thus, we may distinguish between an artistic critique and a social critique.
+
+Artistic critique foregrounds loss of meaning, sense of beautiful; Baudelaire bourgeoisie and the dandy exemplifying attachment and detachment.
+
+(38) This [artistic] critique foregrounds the loss of meaning and, in particular, the loss of the sense of what is beautiful and valuable, which derives from standardization and generalized commodification, affecting not only everyday objects but also artworks (the cultural mercantilism of the bourgeoisie) and human beings.
+(38) The artistic critique is based upon a contrast between attachment and detachment, stability and mobility, whose paradigmatic formulation is found in Baudelaire. On the one hand, we have the bourgeoisie, owning land, factories and women, rooted in possessions. . . . On the other hand, we have intellectuals and artists free of all attachments, whose model – the dandy, a product of the mid-nineteenth century – made the absence of production (unless it was self-production) and a culture of uncertainty into untranscendable ideals.
+
+Social critique foregrounds egoism, inequality and exploitation.
+
+(38) The second critique, inspired by socialists and, later, by Marxists, draws instead on the second two sources of indignation that we have identified: the egoism of private interests in bourgeois society and the growing poverty of the popular classes in a society of unprecedented wealth – a mystery that will find its explanation in theories of exploitation.
+
+Modernist and antimodernist aspects.
+
+(39) While it shares its individualism with modernity, the artistic critique presents itself as a radical challenge to the basic values and options of capitalism. . . . The social critique, for its part, seeks above all to solve the problem of inequalities and poverty by breaking up the operation of individual interests.
+(40) However, notwithstanding the dominant tendency of each of these critiques – towards reform of, or abandonment of, the capitalist regime – it will be observed that each of them presents a modernist and an anti-modernist aspect. For this reason, the tension between a radical critique of modernity, which leads to 'protesting against the age without participating in it', and a modernist critique that risks leading to 'participating in the age without challenging it', is a constant feature of critical movements.
+
+The incompleteness of critique
+
+Alterations of the spirit of capitalism independent of critique
+
+Capitalism readily submits to the exit critique.
+
+(42) The 'exit' critique, which is a refusal to buy on the part of the consumer or customer in the broad sense, a refusal of employment by the potential wage laborer, or a refusal to serve by the independent service provider, is one to which capitalism more readily submits.
+
+
+PART I
+THE EMERGENCE OF A NEW IDEOLOGICAL CONFIGURATION
+
+1
+MANAGEMENT DISCOURSE IN THE 1990S
+
+1. SOURCES OF INFORMATION ON THE SPIRIT OF CAPITALISM
+Management literature as prescription for capitalism
+
+Spirit of capitalism inscribed in management literature addressed to cadres for state of the art in running firms and managing humans.
+
+(57) In order to carry out this project, we shall use management literature addressed to cadres. This literature, whose main objective is to inform cadres of the latest developments in running firms and managing human beings, emerges as one of the main sites in which the spirit of capitalism is inscribed.
+
+Management as professionalization of supervision.
+
+(59) Management, which is presented as the systematization of practices within firms and their inscription in general rules of behavior, gradually enabled a professionalization of supervision.
+
+Textual study with two phases of analysis based on two corpora of sixty texts per period: close reading by humans to define hypothetical characteristics of each period, and machine reading via Prospero analytical software to corroborate them.
+
+Propose future work studying learning programming by examining textbooks versus content of online forums, blogs versus digging into structural components such as floss repositories, forums, where the correspondence would be textbook style knowledge promulgation.
+
+(60-61) We have therefore constituted two corpora comprising sixty texts each. The first corpus appeared in the 1960s (1959-1969), the second in the 1990s (1989-94); and both deal, in whole or part, with the question of cadres, even if the latter are sometimes referred to by different terms (manager, directeur, chef, dirigeant, etc.). For each of the periods under consideration, these two corpora make it possible to bring out a typical image of what was recommended to firms as regards the types of cadres to employ, the way they should ideally be treated, and the kind of work that might appropriately be asked of them. Appendix 1 sets out the characteristics of the texts analyzed, while Appendix 2 presents a bibliography of each corpus. The corpora thus constructed (more than a thousand pages) have been processed in two phases. In the first instance, we submitted them to a traditional analysis based on an extensive reading that aimed at an initial location of their authors' concerns, the solutions they proposed to the problems of their period, the image they offered of the inherited forms they declared to be outdated, and the various arguments advanced to effect the conversion of their readers. In a second phase, we used the analytical software Prospero@ (see Appendix B) to corroborate our hypotheses and confirm, by means of specific indicators running through the body of texts, that our analysis did indeed reflect the general state of the corpus (not a personal bias with respect to certain themes that risked exaggerating their importance), and hence the general state of management literature in the relevant years.
+
+Comparative method placing emphasis on differences between the two corpora.
+
+(61) The option adopted is basically comparative. Emphasis has been placed on the differences between the two corpora, whereas constants have been paid less attention.
+
+Texts focused on the mobilization of cadres
+
+Corporate profit not inspiring in either period to cadres or general workforce, who wanted genuine reasons for engaged commitement.
+
+(63) In both periods, it is recognized that profit is not a very inspiring goal. Cadres initially, in the 1960s, and then the workforce as a whole in the 1990s, wanted 'genuine reasons' for engaged commitment.
+
+2. THE DEVELOPMENT OF THE MANAGEMENT PROBLEMATIC FROM THE 1960S TO THE 1990S
+
+The 1960s: Pleas for target management
+
+Distinctive problems of 1960s management literature were dissatisfaction of cadres and managerial problems of giant firms; professionalization of management becomes target.
+
+(63) In the management literature of the 1960s, two problems are tackled as a matter of priority: on the one hand, strong dissatisfaction on the part of cadres; and on the other, managerial problems bound up with the giant size of firms.
+
+Cadres as technical specialists.
+
+(63) They aspire to share decision-making power, to be more autonomous, to understand managerial policies, to be informed of the progress of business. This theme is present in numerous 1960s texts.
+
+Added layers of bureaucratic hierarchy and fear inspired by large firms; capitalism firm similar to collectivized and fascist firms.
+
+(65) Managers have simply added further levels of hierarchy, without conceding one iota of power. This analysis explains why the demand for autonomy by cadres is often accompanied by a description of the perverse effects of large bureaucratic machines.
+(65) In addition, large firms inspire fear. They are presented as an enclave threatening freedom in democratic countries. . . . From this point of view, the capitalist firm seems to share the same drawbacks as the collectivized or fascist firm.
+
+Solutions by decentralization, meritocracy and especially management by objectives, which also furnishes criteria for measuring performance.
+
+(65-66) The solutions to such problems are termed decentralization, meritocracy and management by objectives. The essential goal of the battle conducted by the 1960s authors is to impose these new managerial methods. Management by objectives emerges as an especially effective mechanism for giving cadres the autonomy they desire, and for decentralizing decision-making in such a way as to limit the disadvantages of bureaucratic gigantism, since decisions will then be taken close to those concerned.
+(66) Management by objectives has further advantage of furnishing clear and reliable criteria for measuring performance, on which career management can then be based.
+
+Foils of 1960s management literature pertain to logic of the domestic world in favor of results based impersonal judgment.
+
+(67) The operating models and styles that serve as foils in the 1960s all pertain, to varying extents, to the logic of the 'domestic world'. What is rejected is consideration of 'personal judgments' – an open invitation to nepotism – in decisions about promotion, in favor of 'impersonal judgment' on the basis of results.
+
+Delegitimation of traditional employers implicit in legitimation of cadres; transition from patrimonial bourgeoisie to bourgeoisie of managers.
+
+(68) Even if the point is not always dealt with explicitly in management literature, legitimation of cadres has as its negative converse the delegitimation of traditional employers, with criticism of their meanness, authoritarianism and irresponsibility. . . . Management literature in the 1960s thus accompanies the transition from a patrimonial bourgeoisie centered on the personal firm to a bourgeoisie of managers, who are salaried, academically qualified, and integrated into large public or private managements.
+
+The 1990s: Towards a model of the firm as network
+
+Distinctive problem of 1990s management literature were hierarchy, morality of domination, rigid planning, rapid technological change; network model becomes target.
+
+(70) The grounds invoked to justify this anti-hierarchical charge are often moral in character, and partake of a more general refusal of dominant-dominated relations.
+(71) If hierarchy is a favorite target, attacks are equally directed against planning, deemed to be rigid and based on coldly quantitative data that do not take account of the 'true reality'; and, against all instances, associated with authority (employers, bosses, orders, etc.).
+(71) Another striking feature of the 1990s is that the themes of competition and constant, ever more rapid technological change – already present in the 1960s – assume unprecedented salience.
+
+Unscrutinized obsession with adaptation and flexibility.
+
+(71-72) This obsessive attention to adaptation, change, 'flexibility', is based upon a series of phenomena that left a deep impression on people's psyches from the end of the 1970s, and which the authors reintroduce, without any scrutiny, under the theme of increased competition.
+
+Ideological world picture of free Western European and United States versus planned economies of 1960s replaced by emergence of third capitalist pole in Asia challenging old capitalist countries in 1990s.
+
+(72) In the 1960s, management regarded as self-evident a representation of the world that can be schematically set out as follows: on one side there was the free, capitalist world – Western Europe and the United States, the other countries being largely absent from the picture – and on the other, there were the socialist countries with a planned economy.
+(72) Things are different in the 1990s. On the new map of the world, we find the 'old capitalist countries' confronting the emergence of a third capitalist pole in Asia.
+
+Lean, network, projects, vision, alliance, team are keywords.
+
+(73) lean firms working as networks with a multitude of participants, organizing work in the form of teams or projects, intent on customer satisfaction, and a general mobilization of workers thanks to their leaders' vision.
+(73-74) The lean, 'streamlined,' 'slimmed-down' firm has lost most of its hierarchical grades, retaining between three and five only, and consigning whole layers of hierarchy to unemployment. It has also parted with a large number of operations and tasks by subcontracting anything that does not form part of its core business – sometimes to former employees who have set up their own firms (hiving off). As for its investments, increasingly it makes them in collaboration with other firms by means of 'alliances' and 'joint ventures'. . . . It is then said to operate as a network.
+(74) The workers themselves, we are told, must be organized in small, multi-tasked teams.
+
+Re-engineering to align with network model, blurring boundaries of firm (Spinuzzi).
+
+(74-75) The process of transforming the old organization to align it with this model is called re-en (Hammer and Champy, 1993). . . . Here again work is said to occur in a network, for the firm's boundaries become blurred, with the organization now seeming to comprise nothing more than a mass of more or less enduring contractual links.
+
+Important of information as source of productivity and profit.
+
+(75) With the learning effects and transfer of information between different (and potentially) competing firms it induces, this enhances the general level of information and savoir faire. In very general terms, these analyses foreground the importance of information as a source of productivity and profit.
+
+Vision of leaders to make work meaningful extracts performance from workers without compulsion; new scarcity is recruiting visionary leaders.
+
+(75-76) Vision has the same virtues as the spirit of capitalism, for it guarantees the workers' commitment without recourse to compulsion, by making everyone's work meaningful.
+(76) The key point in this mechanism is the leader, who is precisely the one with a capacity for vision, who knows how to communicate it and get others to support it. This is doubtless the weakest link in the new mechanisms, for everything rests on the shoulders of an exceptional being; and it is not always clear how to train or even recruit such beings, especially in sufficient numbers, since every firm needs them.
+
+Obsolescence of cadres; replace with manager, distinguished from engineer.
+
+(76) In these discourses, the status of cadre is treated, either explicitly or (invariably) implicitly, as an archaism whose rigidity obstructs the developments under way.
+(77) The word cadre is surrounded by a whole set of terms which, employed pejoratively, are used to characterize the old organizational forms, regarded as outmoded.
+(77) As a substitute for the French term cadre, we witness the emergence of manager, transferred directly into French. . . . Initially used to designate the management cadres in the head offices of large firms (in contrast to the mass of ordinary cadres), it began to be used at the end of the 1980s to refer to those who display their excellence in team leadership, in handling people, in contrast to engineers focused on technology. Similarly, management came to be contrasted with gestion (administration), distinguishing effective employment of people's abilities from a rational processing of objects and figures. . . . They become 'team leaders', 'catalysts', 'visionaries', 'coaches', 'sources of inspiration'.
+
+Manager is the network man; other actors are coaches and experts.
+
+(78-79) The universe of the manager is opposed to that of the cadre as the reticular is opposed to the categorial. The manager is network man. His principal quality is his mobility, his ability to move around without letting himself be impeded by boundaries, whether geographical or derived from professional or cultural affiliations, by hierarchical distances, by differences of status, role, origin, group, and to establish personal contact with other actors, who are often far removed socially or spatially.
+(79) This is the 'coach' (when the manager is not also charged with this duty), whose task is to develop the skills and potential of the people in an organization. But we also come across a third striking figure in 1990s management: the 'expert'. Experts are necessary, for they possess the information about innovation and the highly specialist knowledge that must be mastered to embark on technological competition.
+
+Modalities of control in neo-management over liberated firms: transition from control to self-control via mobilization, recognizing customer is king, transferring control costs to wage earners and customers.
+
+(80) In the sequel to this history, we must ask what are the modalities of control contained in neo-management.
+(80) One of their main problems is controlling a 'liberated firm' (to use Tom Peters's expression [1993]), composed of self-organized teams working in a network that is not unified in time or space. . . . Moreover, the 1990s authors are suspicious of the term 'motivation', which connotes a form of control they endeavor to reject, and prefer 'mobilization', which refers to an attempt at motivation supposedly devoid of any manipulation.
+(81) This dogma has a twofold advantage: on the one hand, it inflects self-control in a direction conducive to profit, given that a firm's differential ability to satisfy its customers is an essential ingredient of success in a competitive economy; and on the other, it transfers some of the control exercised by superiors in the 1960s to customers.
+(81) Oversimplifying, the transition from control to self-control, and the externalization of control costs formerly met by organizations on to wage-earners and customers, may be regarded as the most significant features of the evolution of management in the last thirty years.
+
+Increase in productivity of investments drives replacement for Fordist mode of regulation (Aglietta), economic importance of worker awareness of good health of machines.
+
+(81-82) As Michel Aglietta explains, the new mode of regulation, which has replaced the Fordist regulation associated with the second spirit of capitalism, is based upon an increase in the productivity of investments. . . . Making workers aware of their responsibilities for the 'good health' of machines has thus become economically important.
+
+Replacing hierarchical control with market control by outsourcing and autonomization of value stream focused on the customers order is hard to plan and depends on ability to react, organizational flexibility, and trust.
+
+(82-83) For its part, the outsourcing of a large number of operations, either by recourse to subcontracting or through the autonomization of sectors of large firms, which are treated as autonomous profit centers competing with the outside, has made it possible to replace hierarchical control by a market type of control. . . . Control, then, is exercised by the transmission of the customer's order, which everyone must face up to, cadres and non-cadres alike, as a single team united in adversity. . . . For what is above all at stake is responding to orders when they arrive – hence the authors' insistence not on planning, but on an ability to react and organizational flexibility as the only things that can meet new specifications.
+(83) Trust is in fact the other term for self-control, since it designates a trustworthy relationship where the only mechanism that exists is the pledged word and moral contract.
+
+Networks as form between hierarchical and markets as large firms do not dissolve into set commercial contracts; metaphor of network.
+
+(84) Large firms have not been dissolved into a set of commercial contracts between small units competing in a pure, perfect atomized market (even it it is always possible to model any organization as a network of contracts). . . . networks constitute a specific form between hierarchies and markets.
+(84) The answers proposed by 1990s management literature to the two questions of most concern to it – anti-authoritarianism, and an obsession with flexibility and the ability to react – are conveniently assembled by the authors under the metaphor of the network, which is deployed in all sorts of contexts.
+
+Conclusion that bureaucracies are not only inhuman but unviable; reintroduce personal relations.
+
+(85) To characterize the large impersonal organizations inherited from the previous period, 1990s management adopts a term derived from Weberian sociology, but popularized in the 1940s-1960s by the Trotskyist critique of the state apparatus in totalitarian regimes: bureaucracy. This term connotes authoritarianism and arbitrariness, the impersonal, blind violence of cold monsters, but also inefficiency and squandering of resources. Not only are bureaucracies inhuman, they are also unviable. The struggle conducted in the 1990s thus has as its objective largely eliminating the model of firms constructed in the previous period, on the one hand by delegitimating hierarchy, planning, formal authority, Taylorism, the grade of cadre and lifetime careers in the same firm, and on the other by reintroducing criteria of personality and the use of personal relations that had been eliminated from firms.
+
+Statistical software confirmation of their interpretation of content of two sets of management literature; now test them.
+
+(86) we used a textual analysis software program to compare the two corpora systematically. In Appendix 3, readers will find a presentation of this work, offering statistical confirmation of the interpretation of their content we have just presented.
+(86) Let us reiterate that, in order to meet the constraints of the test to which we are subjecting them, these texts must present engagement in reformation as a personally exciting venture, demonstrate that the measures proposed are justifiable in terms of the common good, and, finally, explain how they will deliver to those who invest in them a certain form of security for themselves and their children.
+
+3. THE CHANGE IN FORMS OF MOBILIZATION
+The 1960s: The exhilaration of progress and job security
+
+Inhuman machines created by endeavor to relentlessly rationalize firms.
+
+(87) The 1990s hark back to this idea in order to counter it: the endeavor relentlessly to rationalize the way firms are run has created inhuman machines.
+
+Security for cadres in career guarantees, welfare state for everyone else.
+
+(87) As far as demands for security are concerned, management in the 1960s counted on the advantage enjoyed by large organizations in offering cadres career guarantees.
+(87) Security forms part of the implicit, but universally accepted, definition of the work contract.
+(89) The final security mechanism management authors count on is none other than the welfare state, which is regarded as the requisite complement to economic existence. . . . An apologia for change, risk and mobility replaces the high premium put on the idea of security.
+
+Weak point in new spirit of capitalism proposing forms of security compatible with dominant requirement of flexbility.
+
+(89) As we shall now see, this is without a doubt one of the points where the new spirit of capitalism is at its weakest, even if management authors are not wanting in imaginative attempts to hit upon forms of security that are compatible with the currently dominant requirement of flexibility.
+
+The 1990s: Personal fulfillment through a multitude of projects
+
+Projects transgress all boundaries, feeding neo-management belief in individualism and personal development.
+
+(90) Now no one is restricted by belonging to a department or wholly subject to the boss's authority, for all boundaries may be transgressed through the power of projects. . . . Discovery and enrichment can be constant.
+(90) Another seductive aspect of neo-management is the proposal that everyone should develop themselves personally. The new organizations are supposed to appeal to all the capacities of human beings, who will thus be in a position fully to blossom. . . . The new model proposes, so we are told, 'genuine autonomy', based on self-knowledge and personal fulfillment, not the false autonomy, framed by the career paths, job descriptions, and systems of sanctions—rewards, proposed by the 1960s.
+
+Reward people on ability to work on a project, valuing interpersonal relations, flexibility and adaptability.
+
+(92) In the 1960s, the idea was to reward people according to their results or efficiency. In contrast, the 1990s enhance the status of those who know how to work on a project, whether as leader or simple contributor. From this perspective, valuable members of staff are those who succeed in working with very different people, prove themselves open and flexible when it comes to switching project, and always manage to adapt to new circumstances.
+
+Appraisal of people in projective city differs from earlier precepts of justice.
+
+(92) This way of appraising people, which is conveyed in most of the 1990s texts, contrast sharply with the precepts of justice formulated in earlier periods. . . . Our hypothesis is that we are witnessing the emergence of a new ordinary sense of justice, which should eventually be amenable to codification in line with the architecture of political cities as described in De la justification. . . . We have dubbed this new 'city' the projective city with reference to the flexible world, composed of multiple projects conducted by autonomous persons, whose picture is painted by management authors.
+
+Replace hierarchical careers with succession of projects deployed to develop personal skills.
+
+(93) The first problem they have to resolve is to suggest some alternative to the hierarchical careers whose importance in the second spirit of capitalism we have seen. The suggestion is to replace them by a succession of projects. . . . Being by definition different, novel, innovatory, each project presents itself as an opportunity to learn and to develop one's skills, which are so many assets for finding other engagements.
+
+Employability the capacity required to be called upon for projects.
+
+(93) The key idea in this conception of life at work is employability, which refers to the capacity people must be equipped with if they are to be called upon for projects.
+
+Must address actors solely out for their own interests.
+
+(94) Another risk, of a very new type, generated by flexible organizations is that it is much easier for actors in firms to be 'out for themselves', as popular language has it – to pursue their own interests, without taking into consideration those without whom their action would not have been crowned with success.
+
+Danger of experience of coach encroaching on private life.
+
+(94) The introduction of the 'coach', functioning as a psychologist in the firm's service, although charged with helping people to flourish, can be experienced by some as a danger of the firm encroaching on their private lives.
+
+Development of business ethics management discipline related to anxiety that neo-management mechanisms be used ethically; reputation foregrounded.
+
+(95) Generally speaking, the mechanisms of neo-management need to be used by people whose behavior evinces a high level of ethical concern. The recent development of 'business ethics', as a specific management discipline, is no doubt related to these anxieties.
+(95) To meet these anxieties, management authors foreground the regulatory effect of mechanisms of reputation (which we also find in microeconomic modeling): actors in the world of business will police themselves, and will be keen in future not to work with those who have not observed the basic ethical rules.
+
+Poor prognosis for mobilization in 1990s management literature for lack of terms of justice, relying on nascent value system of projective city.
+
+(96) In the final analysis, the mobilizing capacity contained in the new spirit of capitalism as displayed in 1990s management literature seems to us poor. The proposals advanced certainly aim to sketch a world where life would genuinely be very exciting. But they exhibit a deficit in terms of justice, in that they presuppose reference to a new value system which exists only in outline. . . . 'Employability', 'personal ethics', and 'holding reputation hostage' – in management literature at least, these have yet to find any very solid translation into mechanisms.
+
+CONCLUSION: NEW MANAGEMENT AS A RESPONSE TO CRITIQUES
+
+Change in focus of management literature strong evidence that spirit of capitalism has changed in last thirty years; seems obvious neo-management response to demands for authenticity and freedom aligns with artistic critique, setting aside issues of egoism and inequalities combined in social critique.
+
+(96) The management literature of the 1990s contains ideals, proposals for organizing human beings, ways of arranging objects, and forms of security so different from those of the 1960s that it is difficult not to accept that the spirit of capitalism has undergone a sea change over the last thirty years.
+(97) The pinpointing in the introduction of the four sources of indignation on which critiques of capitalism draw will help us to identify the demands satisfied by the new spirit. It thus seems to us fairly obvious that neo-management aims to respond to demands for authenticity and freedom, which have historically been articulated in interrelated fashion by what we have called the 'artistic critique': and that it sets to one side the issues of egoism and inequalities traditionally combined in the 'social critique'.
+
+Life skills over knowledge and savoir faire, facilitate an instrumentalization of human beings in their most specifically human dimensions.
+
+(98) More generally, in stressing versatility, job flexibility and the ability to learn and adapt to new duties, rather than possession of an occupation and established qualifications, but also the capacity for engagement, communication and relational qualities, neo-management looks to what are increasingly called 'life skills', as opposed to knowledge and savoir faire. . . . people are expected to 'give' themselves to their work – and facilitate an instrumentalization of human beings in their most specifically human dimensions.
+
+Responses to critique of disenchantment by creating products attuned to demand, more personal forms of organization: compare to development of computer user interfaces combining personalization and surveillance (Kitchin and Dodge).
+
+(99) Hence new-style management does indeed offer various responses to the critique of disenchantment by promoting the creation of products that are attuned to demand, personalized, and which satisfy 'genuine needs', as well as more personal, more human forms of organization. Similarly, it satisfies demands for liberation from the sway of bureaucracy associated with the critique of the second spirit of capitalism. These two dimensions help to give it salience and appeal, even if it proves to be somewhat lacking at the level of mechanisms of security and rests upon a form of justice which, while presenting characteristics that may be regarding as very specific, still remain largely implicit.
+
+
+2
+THE FORMATION OF THE PROJECTIVE CITY
+
+Network and projects mobilized by rhetoric of capitalism.
+
+(104) As an existing concept, constructed around contemporary ideas, technologies and research, associated with a specific vocabulary, models of causality and mathematical models, and formed to offer an alternative to hierarchical algorithms, 'network' naturally enough finds itself mobilized by capitalism. Employed in academic works in economics and the sociology of work – disciplines that helped to provide management with its theoretical foundations – it was almost bound to invade the literature to cadres that we have studied.
+(104-105) Projects make production and accumulation possible in a world which, were it to be purely connexionist, would simply contain flows, where nothing could be stabilized, accumulated or crystallized. . . . It is thus a temporary pocket of accumulation which, creating value, provides a base for the requirement of extending the network by furthering connections.
+
+Project form of social organization as new apparatus of justification.
+
+(105) we have chosen to call the new apparatus of justification that seems to us to be being formed the 'projective city'. It is in fact modeled on a term that frequently crops up in management literature: project organization. . . . By analogy, we shall refer to a social structure in project form or a general organization of society in project form.
+
+Projects delineate spaces of mini-calculation within otherwise indeterminate network.
+
+(106) This is why the network cannot in itself represent the support for a city. Given that membership of the network remains largely indeterminate, the very notion of the common good is problematic in the topic of the network because it is not known between whom a 'good' might be placed in 'common' and also, for that reason, between whom a scale of justice might be established. . . . In the seamless fabric of the network, projects delineate a multitude of mini-spaces of calculation, wherein orders can be generated and justified.
+
+In projective city people are encouraged to forge links but only respect maxims specific to projects.
+
+(107) The projective city thus presents itself as a system of constraints placed upon a network world that encourages people to forge links and extend its ramifications, while respecting only those maxims of justifiable action that are specific to projects. . . . It constrains the network, subjecting it to a form of justice that nevertheless safeguards its content and puts a premium on the qualities of the network creatore – something none of the established cities was able to do.
+
+1. THE PROJECTIVE CITY
+
+Autonomization and valuing art of mediating and making connections.
+
+(108) The formation of more or less extensive networks is no more novel than commercial activity was when Adam Smith wrote The Wealth of Nations. But it is as if we had to wait until the last third of the twentieth century for the activity of mediating, the art of making and using the most diverse and remote kinds of connection, to be autonomized – separated from the other forms of activity it had hitherto been bound up with – and identified and valued for itself.
+
+Principle of judgment and hierarchy of beings in the projective city
+
+Common superior principle in projective city is activity.
+
+Uses acute square brackets similar to BNF for grammatical terms derived from De la justification.
+
+(108) According to the grammar employed by us, the <common superior principle> is the principle in accordance with which acts, things and persons are judged in a given city.
+(109) In a projective city, the general equivalent – what the status of persons and things is measured by – is activity.
+
+Key activity is generating or integrating oneself into projects, networks, putting an end to isolation.
+
+(110) Activity aims to generate projects, or to achieve integration into projects initiated by others. But the project does not exist outside of the encounter (not being integrated once and for all into an institution or environment, it presents itself as an action to be performed, not as something that is already there). Hence the activity par excellence is integrating oneself into networks and exploring them, so as to put an end to isolation, and have opportunities for meeting people or associating with things proximity to which is liable to generate a project.
+
+Life as succession of projects, with the aim of extending networks by multiplying connections and proliferating links.
+
+(110) Life is conceived as a succession of projects; and the more they differ from one another, the more valuable they are.
+(111) Anything can attain the status of a project, including ventures hostile to capitalism.
+(111) It is precisely because the project is a transient form that it is adjusted to a network world: by multiplying connections and proliferating links, the succession of projects has the effect of extending networks.
+
+Great man knows how to engage in a project enthusiastically, and is adaptable and flexible, thus employable.
+
+(112) Knowing how to engage in a project, to get fully involved in it, is the mark of the <condition of great man>. To engage, one must be capable of enthusiasm.
+(112) It is precisely this adaptability and versatility that make him employable – that is to say, in the world of firms, in a position to attach himself to new projects.
+
+Flexibility and adaptability derive from autonomy,with an intuitive talent for knowing how to select and plunder ideas, not from obedience.
+
+(112) Flexibility and adaptability here are qualities that do not derive from obedience. The great man in a connexionist world is active and autonomous.
+(113) They know how to locate sources of information ('being a radar'), and to select between connections with a lot of new potential and those that revert to routine existing links.
+(113) In this city, the great man is a 'plunderer of ideas' (Serieyx, 1993). For that, he must possess intuition and talent (in the sense in which we speak of an artist's talent). He 'scans the world around him in search of novel signs' (Sicard, 1994), and knows how to anticipate, sense, sniff out links worth pursuing.
+
+Must be able to interest others, be at ease and be local.
+
+(113) Given that links presuppose the engagement of at least two people, they must avoid being rejected; on the contrary, they must attract the attention and sympathy of others – interest them.
+(114) At ease wherever he finds himself, he also knows how to be local. In fact, since the network has no overarching representation, actions in it are always embedded in the contingency of a present situation. . . . Basically, they have 'a good manner with people . . . an adroitness in the way they conduct themselves in the world, in making connections, in acting in such a way to get what they want' (Bellenger, 1992).
+
+The great are integrators, enhancers of life; project heads, managers and coaches in contrast to cadres.
+
+(114-115) In the logic of the city, the great are not only those who excel at exploiting the specific resources connected with a world, but also those who place the capacities disclosed in tests at the service of the common good. . . . They are not (hierarchical) bosses, but integrators, facilitators, an inspiration, unifiers of energies, enhancers of life, meaning and autonomy.
+(115) Such are, in the first instance, project heads, 'managers' (in contrast to the old cadres), but also coaches, who stimulate, support the development of manager and practice 'the art of delivering minds' (Aubrey, 1990). But such equally are customers, suppliers and subcontractors when they enter into relations of partnership.
+
+Scientists and artists as models; experts have personal, integrated knowledge but are less adaptable than the project head.
+
+(115) These innovators have scientists, and especially artists, as their models.
+(116) Experts also enjoy high status in the projective city because their competence, which is indispensable, is composed not of standardized knowledge but of personal, integrated knowledge. . . . But their image is less heroic than that of the project head, because they are deemed less adaptable. The project head is precisely the one who proves capable of making connections between very different zones of expertise.
+
+Interpersonal organizational mechanisms.
+
+(117) the great man is he who establishes links between beings who are not only removed from one another, located in different universes, but also distant from his social background and the circle of his immediate relations.
+(118) Given that what matters most is intangible, impalpable, informal – a term that characterizes both relations and the rules of the game, which are invented as one goes along – the most appropriate organizational mechanisms are thus likewise interpersonal.
+
+Metaphors for rhizomorphous form include weaving, fluid flow, and biology of the brain; connect to Malabou.
+
+(118-119) The general nature of the rhizomorphous form is declined by means of different metaphors, which refer either, in traditional fashion, to weaving (stitch, loop, knot); or to the devices in which fluids circulate (flow, oil pipeline, channel, electric cable); or, in more modern fashion, to the biology of the brain (synapse, neurons, etc.). This last register is employed in particular to emphasize the autonomy and even the volition of the network, which is stronger than that of the beings immersed in it, and whose properties are then described in the language of self-organization, self-regulation, and spontaneous morphogenesis.
+
+Little people in projective city are rigid, cannot be engaged, employable on a project, incapable of changing projects; may be rigid because of attachment to a single project, place, preferring security at expense of autonomy.
+
+(119) In a projective city, the little people are those who cannot be engaged, who are not employable on a project, or who prove incapable of changing projects.
+(119) Rigidity, which, as the converse of flexibility, in this world constitutes the main failing of little people, can have different origins.
+(120) Thus, in a projective city someone who has a status is not mobile.
+
+City falls when networks close, only benefiting some people, distorting tests by permitting privileges.
+
+(120) The city falls when the network is no longer extended and, closing in on itself, benefits some people, but no longer serves the public good.
+(120) Closed networks permit privileges. In them the tests of connections are distorted: they are 'networks of privileges' that encourage 'string-pulling', which predominantly benefit the members of corporate bodies closed in on themselves, to the detriment of others who are in fact better endowed with connexionist skills.
+
+Forms of justice in the projective city
+
+Relation between great and little people just when trust of the former results in enhancing employability of the latter.
+
+(121) The relation between great man and little people is just when, in exchange for the trust that the little people place in them and their zeal for engaging in projects, great men enhance the value of the more humble, in order to increase their employability – that is to say, their capacity, once one project is finished, to integrate themselves into another.
+
+Great man is a nomad, sacrificing impediments to availability, abandoning disinterested friendship, streamlined, ambivalent about moralizing.
+
+(122) In a projective city, access to the condition of great man presupposes sacrificing anything that might impede availability – that is to say, the ability to engage in a new project. The great man renounces having a single project that lasts a lifetime (a vocation, a profession, a marriage, etc.). He is mobile. Nothing must hamper his movements. He is a 'nomad'.
+(123) Extension of the network thus demands that people renounce friendship or, rather, that when assessing the quality of a link they abandon the distinction between disinterested bonds of friendship and professional or useful relations.
+(123-124) Great men in the projective city are also streamlined in that they are liberated from the burden of their own passions and values: open to differences (unlike rigid, absolutist personalities attached to the defense of universal values). For the same reasons, they are not critical (except when it comes to defending tolerance and difference). . . . one must know how to free oneself from moralism by casting suspicion on the hidden motives involved in moralizing ventures and acknowledging the validity of ambivalence.
+
+Prefer renting to ownership; avoids being trapped by institutions.
+
+(124) the streamlined human being must not be attached to a burdensome patrimony, and should prefer to ownership other formulas that provide access to the enjoyment of objects, such as renting.
+(124) For the same reasons, connexionist man likewise tends not to let himself be trapped by institutions, with all the various obligations that entails, and not to allow himself to become entangled in a web of responsibilities towards the other people or organizations he has responsibility for.
+
+Authority depends on competence.
+
+(124) Their authority depends exclusively on their competence. They do not impose their rules or objectives, but agree to discuss their positions (principle of tolerance).
+
+Sacrifices personality to be connexionist being, chameleon; quiddity of self enterprise derives from constellation of established connections.
+
+Subjectivity in connexionist networks effect of constitutive links.
+
+(124) Underlying these different forms of renunciation we find a more basic sacrifice: that of personality, in the sense of a manner of being that expresses itself in similar attitudes and conduct whatever the circumstances.
+(124-125) Consequently, streamlined people can root themselves only in themselves ('the self-enterprise') – the sole instance endowed with a certain permanency in a complex, uncertain and changing world. However, the quiddity that is recognizable is not the result of a pre-existing endowment, or even of a trajectory or experience. It derives from the constellation of established connections. They are themselves only because they are the links that constitute them.
+
+Model tests at end of a project.
+
+(125) <Model tests> are just as necessary for fulfilling the requirements of justice, and for their inscription in the fabric of everyday relations. These are situations when the status of persons and things is revealed with especial clarity.
+(125) It is when a project is finished that the keyholders are revealed and an appraisal is conducted.
+
+Existence is relational attribute; disaffiliation is sole sanction.
+
+(126) For in the logic of this world, existence itself is a relational attribute: every entity, and human persons by the same token as the rest, exists to a greater or lesser extent depending upon the number and value of the connections that pass via it.
+(126) This is why such a world has no sanctions other than rejection or exclusion, which, in depriving someone of their links ('disaffiliation', in Robert Castel's terminology), expels them to the margins of the network, where connections are at once both sparse and worthless.
+
+Anthropology and naturalness in the projective city
+
+Networks appeal to desire to connect as basic property of human nature, as well as wanting to be simultaneously free and engaged.
+
+(127) All the active operators in a network can accede to better conditions, because they all possess the ability to connect with others. The desire to connect is a basic property of human nature.
+(127) Functioning in networks also satisfies the highly human characteristic of wanted to be simultaneously free and engaged.
+
+Network form in firms formerly associated with organized crime, now rehabilitated.
+
+(128) But the network form of organization was previously suspect in firms, and bore the stamp of the clandestine. The moment for its rehabilitation has now arrived.
+
+Next compare projective city with other normative forms of commercial and domestic cities.
+
+(128) We shall now satisfy ourselves that the projective city does indeed constitute a specific form, not an unstable compromise between existing cities, by rapidly comparing it with the other normative forms described in De la justificaiton and, in particular, with those that seem closest it it – that is to say, the commercial city and the domestic city.
+
+2. THE ORIGINALITY OF THE PROJECTIVE CITY
+Compared with the inspirational city
+
+Familiar characterization of innovation based on distributed recombination by rather than ex nihilo by individual actor of inspirational city.
+
+(129) Moreover, it is a matter of recombination, rather than creation ex nihilo, and readily assumes a 'distributed' form (as one talks of 'distributed intelligence'), with responsibility for innovation being allocated between different actors.
+
+Compared with the commercial city
+
+Transformative usefulness of links, information transmission means products not distinctly separated from persons as in commercial city.
+
+(131) In a connexionist world, by contrast, links are useful and enriching when they have the power to change the beings who enter into relations.
+(131) The transmission of information plays a key role in establishing the link in all those sectors where the value added is cognitive in kind – as in the case, for example, with scientific research.
+(131) It follows that in a connexionist world, products (especially products without a material medium) are not – contrary to what occurs in market exchange – clearly identified and distinctly separated from persons.
+
+Compared with the reputational city
+
+Links lack transparency of reputational city.
+
+(132) But the network world of the projective city does not possess the transparency that is one of the dimensions of the reputational world. Each link in it is established independently of the others, without visibility, and without there existing a point from which the quantity of links amassed could be assessed in the way, for example, that the popularity of a particularly politician or TV star is measured by opinion polls.
+
+Compared with the domestic city
+
+Forms of control and gratification of domestic city defined by hierarchical position; in projective city mobility more important.
+
+(133) The domestic city presents forms of control, gratification and sanction that are very different from those proposed by a projective city.
+(134) In a network world, everyone seeks to establish links that interest them, and with people of their choice.
+(134) Finally, in contrast to what we observe in a domestic world, mobility and instability are very important elements in the stuff a person is made of, and constitute a condition of access to high status.
+
+Compared with the industrial city
+
+Flexibility and adaptability more advantageous than technical expertise and experience of industrial city.
+
+(135) Their flexibility, their ability to adapt and learn continuously become major advantages, which take precedence over their technical expertise (knowledge changes so quickly) and their experience. Personality make-up, the qualities of communication, listening and openness to differences, thus count for more than efficiency as measured by the ability to achieve predefined objectives.
+
+Based on these analyses and software analysis of 1990s management literature, projective city constitutes original mode of justification.
+
+(135-136) The analyses above lead us to believe that what we have called the projective city does indeed constitute an original mode of justification, whose architecture is based on a world of objects and mechanisms whose formation is relatively recent. We can also confirm it by demonstrating, with the aid of the textual analysis program Prospero, that the projective city definitely specifies the 1990s corpus.
+
+The specification of the 1990s corpus by the projective city
+
+Mapping grammars of seven worlds via word categories shows dominance of industrial logic in both eras, and network logic overtaking domestic logic for second place in 1990s.
+
+(136) The grammars are represented in their computerized form by groups or categories of words associated with one or other world. It is then possible to compare the two corpora with respect to the presence or absence of the different categories. . . . If the second-ranking logic in the 1990s is that of the network, domestic logic occupies this position in the 1960s – which would tend to confirm the hypothesis of a substitution or rather an absorption, of domestic by connexionist logic.
+
+Textual analysis brings network logic to top position.
+
+(137) The program of textual analysis that we have employed thus makes it possible to bring out a major transformation in the space of thirty years in the registers of justification on which management literature bases itself, and an increase in the popularity of the network logic to top position. . . . Hence this tends to confirm the hypothesis that the construction we have extracted from texts does indeed represent, in stylized and concentrated form, what characterizes the new spirit of capitalism in a highly original fashion.
+
+Network metaphor extending to general representation of societies: connection and disconnection, inclusion and exclusion, openness and solitude.
+
+(138) this phenomenon is in no way restricted to the domain of management, or even to the sphere of firms. On the contrary, various indications suggest that the metaphor of the network is gradually raking on the task of a new general representation of societies. . . . The focus is on a representation of the lived world in terms of connection and disconnection, inclusion and exclusion, of closure in collectivities that are closed in on themselves ('sects'), or of openness to a hazardous world of encounters, mutual aid, losses and, ultimately, solitude.
+
+3. THE GENERALIZATION OF THE NETWORK FORM OF REPRESENTATION
+
+The proliferation of texts on networks
+
+Few management texts reference authors from human sciences and philosophy, mostly each other; communication, complexity, chaos are predominant terms.
+
+(139) However, although a large number of the terms or notions drawn from management texts where network logic predominates have their equivalent in writings from the human sciences, direct references to these works are rather rare in our corpus, and pretty much concentrated under the signatures of a few authors. These authors associate management in network form with three terms: first, communication (represented by references to Habermas, Bateson, and Watzlawick); secondly, complexity (J.-P. Dupuy, Edgar Morin); and, finally, disorder, chaos and self-organization (represented by references to Prigogine, Stengers, Atlan, Heisenberg, Hofstadter and Varela). As a general rule, the authors of our corpus predominantly cite other management authors, and frequently one another; this accords with the existence of management as a specific discipline.
+
+Traces of 1970s Illich although rarely cited by management authors.
+
+(139) In other respects, we find in the writings of the main authors from whom we have extracted the outline of the projective city traces of a reading of Ivan Illich's works in the 1970s. Their anti-authoritarian emphasis, critique of centralization, stress on autonomy and on what might, with a certain anachronism, be called self-organization, and also their technological humanism – placing tools in the service of humanity, not vice versa – were to be taken up in the thematic of the projective city.
+
+The network: From the illegitimate to the legitimate
+
+Network formerly referred to constraints.
+
+(141) The word network is thus used in the 1960s to refer to constraints, meshes being associated with those of a net hemming the individual in, rather than representing the activity of connectivity.
+
+Remarks on the origin of works on networks
+
+Interest in relational properties and ontologies, philosophy of science in France; try to position in Hayles three eras of cybernetics.
+
+(143) The formation of the network paradigm was bound up in a very general way with a growing interest in relational properties (and relational ontologies), as opposed to properties substantially attached to entities they supposedly defined in themselves.
+(144) In France, interest in the field of the human sciences for representation in network terms emerged in the course of the 1960s from philosophy – in particular, philosophical enterprises that helped to renew the philosophy of science by rejecting the boundary established by the dominant epistemologies between scientific activities and other types of practice of knowledge, in order to set this discipline on non-reductionistic paths.
+
+Network approach identified with radical empiricism, against reductionism apriorism implied by structuralism.
+
+(144) However, unlike structuralism, whose project is to identify the original structures on the basis of which transformations occur, and which therefore sets off 'in search of the “logical structure of the world”', the network approach is identified with a radical empiricism. Rather than assuming a world organized according to basic structures (even if they remain hidden and must be unveiled by a scientific labor reducing them to elementary constituents), it presents a world where everything potentially reflects everything else: a world, often conceived as 'fluid, continuous, chaotic', where anything can be connected with anything else, which must therefore be tackled without any reductionist apriorism.
+
+Network approach developed with ontological primacy of philosopheme of event of connection, Deleuze encounter, giving langauge to Latour and Callon sociology of science.
+
+(145) The ontological primacy accorded to the event of connection with respect to entities related to one another is much more radical than in American versions of the network paradigm, which we shall examine shortly. The moment of connection (the 'encounter' in Gilles Deleuze), is the moment of constitution of the identity of the entities that enter into a certain relation.
+(145) The utterly original kind of description made possible by this novel language helped in the 1980s to renew sociology, penetrating it via the new sociology of science developed by Bruno Latour and Michel Callon.
+
+Less radical American network logics attached to pragmatism, radical empiricism, semiotics, based on Peirce triad.
+
+Revisit treatment of Peirce triad by Tanaka-Ishii.
+
+(146) In the Anglophone literature, the world-views (and not simply conceptions of society) based on network logics attached themselves to pragmatism and radical empiricism. . . . It leads to representing the world in the form of a meshing of 'signs', each of which is capable of reflecting or representing the others according to its particular position (and not from some overarching standpoint, which does not feature in such a model). Hence the often implicit importance of semiotics, invented by C. S. Peirce, in the formation of a representation of the world conceived as a network. . . . This triadic conception of the sign (sign, object, interpretant) makes it possible to represent the world, inasmuch as it can be invested with a meaning, as a 'network' with indeterminate contours constituted by a multiplicity of translations, since 'the sign is not a sign unless it can be translated into another sign in which it is more fully developed'. The interpretant thus plays a role as translator or mediator, allowing the network to expand by connecting entities that would otherwise remain isolated, and hence devoid of meaning.
+
+Traditional political philosophy has not yet attempted to justify the network, connexionist order; consider recent Lanier as example arising from technologists.
+
+(148-149) Because, as far as we know, there is no key text that attempts to establish the possibility of a harmonious, just world based on the network. The connexionist type of order whose formalization we have sketched has not – in the same way as the domestic, civic or commercial orders, for example – been the object of a systematic construction in the tradition of political philosophy.
+
+The naturalization of networks in the social sciences
+
+Historicist and naturalist efforts to construct scientific sociology based on networks, reducible to reticular organization of knowledge.
+
+(150) The wish to construct an authentically scientific sociology on the basis of network analysis has been expressed in two different fashions. Schematically, the first might be characterized as historicist, the second as naturalistic.
+(151) However, the tension between a historicist position (the network is the form that suits our age) and a naturalistic position (the network is the texture constitutive of any social world, even of nature in its entirety) can be reduced if one accepts that in the order of knowledge, reticular organization constitutes the form that is best adjusted to the global vision of the world from the viewpoint of a city founded upon a connexionist logic.
+
+CONCLUSION: THE CHANGES WROUGHT BY THE NEW SPIRIT OF CAPITALISM AT THE LEVEL OF ETHICS
+
+Change in terms relating to money and work from saving and competence from first two spirits.
+
+(151) Whereas the first spirit of capitalism gave more than its due to an ethic of saving, and the second to an ethic of work and competence, the new spirit is marked by a change in terms of the relation to both money and work.
+
+The change in the relation to money and possessions
+
+Time the basic resource to be save and constantly reinvested.
+
+(152) As Gary Becker anticipated more than thirty years ago, the main scarcity in our societies – at least among categories like cadres, who do not face immediate necessity – concerns time, not material goods. . . . Time represents the basic resource for connecting the actors who control access to money, and on whom the project budget depends. Given that time is a resource that cannot be stored, however, this type of saving cannot remain dormant, and must be constantly reinvested.
+
+Washida definition of property foregrounding rented availability appropriate to separation of ownership and control.
+
+(152) The modes of activity best adjusted to a connexionist world signal a turning-point in the history of capitalism, because they contribute to making a Western definition of property operative. Kiyokazu Washida has devoted a remarkable article to this definition, on which the remarks below draw.
+(153) Renting isolates a third component of property: availability, which is total but temporary. Now, it is precisely this component, and it alone, that people should be concerned with in a connexionist world. . . . Renting is the form suitable to the project, to arrangements for a temporary operation.
+
+Licensing like renting for sphere of information; intellectual rights as rental contracts.
+
+(153) But this kind of relationship to property is not restricted to the world of objects. It is just as valid in the sphere of information, where the optimal strategy consists in borrowing elements that can be recombined without having to become the exclusive owner of the ensembles to which they pertain. In some respects, intellectual rights may be treated as rental contracts.
+
+Liberal conception of property taken to its conclusion, individuals owning themselves as product of labor of self-fashioning.
+
+(154) Does this mean that the anthropology underlying the projective city is indifferent to ownership? On the contrary, it takes an element at the origin of the liberal conception of property to its ultimate conclusion: connexionist human beings are the owners of themselves – not by natural right, but inasmuch as they are the product of a labor of self-fashioning. . . . It is now defined exclusively as a responsibility towards the self: in so far as they are the producers of themselves, everyone is responsible for their bodies, their image, their success, their destiny.
+
+The change in the relationship to work
+
+Premium on activity in relationship to work replacing rational asceticism and responsibility of prior spirits.
+
+(155) Associated in the first state of capitalism with rational asceticism and then, in the mid-twentieth century, with responsibility and knowledge, it tends to make way for a premium on activity, without any clear distinction between personal or even leisure activity and professional activity. To be doing something, to move, to change – this is what enjoys prestige, as against stability, which is often regarded as synonymous with inaction.
+
+Critique seemed to miss advance of new network mechanisms of capitalism besides condemnation of exclusion, until recently, though its 1970s vanguard emerge as promoters of the transformation.
+
+(156) Apart from the denunciation of exclusion, however, which is precisely a condemnation of the new connexionist world in terms of disaffiliation – that is to say, disconnection – which appeared at the beginning of the 1990s but remained largely unconnected with the new mechanisms of capitalism, at least until recently, it must be said that the new world became firmly established without a fuss. It was as if it had been covered up by the clamor surrounding the slowdown in growth and rising unemployment, which no public policies succeeded in curbing. Similarly powerless, critique was unable to analyze the transformation beyond exposing the new forms of social suffering. Quite the reverse, those in the vanguard of critique in the 1970s often emerged as promoters of the transformation.
+
+
+
+
+
+
+
+CONCLUSION
+THE FORCE OF CRITIQUE
+
+Condensation of book via typesetting conventions of the printed page.
+
+At reaching formation of new spirit of capitalism at the end it prepares to repeat.
+
+(485) In this conclusion, we have sought to condense in a comparatively limited space the historical transformations of capitalism over the last thirty years, as well as the concepts and model of change that we employ to account for them. This synthesis is presented in the form of a series of steps leading to the formation of the new spirit of capitalism.
+
+1. THE AXIOMATICS OF THE MODEL OF CHANGE
+
+Capitalism must convince people to engage it.
+
+Eight axioms applied to computing: spirit voice, moral dimension, permanent tension, critique effects, transforming tendency, voice, crossing Big Other as critique changing capitalism, compared to which the final anticlimactic sources of indignation.
+
+First axiom, first of n sequence of axioms, is the necessity of capitalism having a voice, having spirit for subvocalization of leading the soul with words to engage people.
+
+(485) 1. Capitalism needs a spirit in order to engage the people required for production and the functioning of business.
+(486) It is precisely because capitalism is hand in glove with freedom, does not have total sway over people, and presupposes the performance of a large number of tasks that cannot be carried out without workers' positive involvement, that it must furnish acceptable reasons for engaging.
+
+Second axiom is moral dimension of which tests play a role though tests exist immanently as part of the overall interior logic of capitalism, expressed as its insatiability.
+
+(486) 2. To be capable of mobilizing people, the spirit of capitalism must incorporate a moral dimension.
+
+Insatiable capitalism must tempt satiable humans; compare insatiablity satiability distinction to Rushkoff on difference between computer and human senses of time.
+
+(486) whereas capitalism, by its very nature, is an insatiable process, people are satiable, so that they require justification for getting involved in an insatiable process. It follows that capitalism cannot make do with offering nothing more specific than its inherent instatiability.
+
+Contrary to Durkheim insatiability belongs to systemic capitalism not human nature due to competing desires.
+
+(487) Thus, in contrast to Durkheim, we transfer the full weight of such insatiability on to capitalism – that is, its systemic properties – not on to the anthropological properties of human nature. . . . By causing desires to be played off against one another, as it were, the existence of a plurality of value orders and people's simultaneous or successive membership of several lived worlds thus tend to confer a satiable character on human nature.
+
+Capitalism must resort to cities providing external justification due to absence of provable moral connection for insatiable accumulation.
+
+(487) Unable to discover a moral basis on the logic of the insatiable accumulation process (which, in itself, on its own, is amoral), capitalism must borrow the legitimating principles it lacks from orders of justification external to it (here called cities).
+
+Third axiom is need to both stimulate and curb insatiability motivating capitalism, comparable to Rousseau by Derria, causing permanent tension, the wish to participate in projects.
+
+Obviousness of these states could be world creating components of virtual realities putatively embedded in old versions of popular commercial entertainment simulation software.
+
+(487) 3. If it is to survive, capitalism needs simultaneously to stimulate and to curb insatiability.
+(488) It is the site of a permanent tension between the stimulation of desire for accumulation and its limitation by norms corresponding to the forms that desire takes when it is embedded in other orders of status.
+
+Fourth axiom is that critique has real effects, mechanisms beyond illusion of ideology.
+
+(488) 4. The spirit of capitalism cannot be reduced to an ideology in the sense of an illusion with no impact on events in the world.
+(488) Critique has real effects for, in order to withstand the test, the justification of capitalism must be able to rely upon mechanisms – that is to say, collections of objects, rules, conventions, of which law is one expression.
+
+Fifth axiom is transforming tendency, which may make the spirit radical to the point of mobilizing as they accumulate.
+
+(489) 5. Capitalism has a constant tendency to transform itself.
+(489) As they accumulate, the alterations can become so radical that a spirit of capitalism adapted to a given period can subsequently prove utterly incapable of performing is mobilizing function.
+
+Sixth axiom is critique as voice is principal operator, intervening to tighten tests but then subject to being ignored or recuperated.
+
+(489) 6. The principal operator of creation and transformation of the spirit of capitalism is critique (voice).
+(490) The more critique focuses attention on a test, the more chance there is that established mechanisms exist to improve it in terms of its more or less just character.
+(490) it intervenes to tighten up the tests.
+(490) Because critique makes it possible for capitalism to equip itself with a spirit which, as we have seen, is required for people to engage in the profit-making process, it indirectly serves capitalism and is one of the instruments of its ability to endure. This poses some serious problems for critique, since it easily finds itself faced with the alternative of being either ignored (and hence useless) or recuperated.
+
+Seventh axiom is ability of critique to change capitalism beyond its spirit: by engendering displacements, shifting weights of tests, altering forms of accumulation.
+
+(490) 7. In certain conditions, critique can itself be one of the factors of a change in capitalism (and not merely in its spirit).
+(490-491) (a) the critique of the established tests is so violent that capitalism seeks to elude them via displacements . . . (b) because critique is plural, change in the balance between different critical components . . . leads to an emphasis on tests that have hitherto been weakly established . . . (c) by obliging capitalism to limit itself, critique constrains it to alter its forms of accumulation.
+
+Eighth axiom energizes critique by indignation, emotional expressions of meta-ethical anchorage, whose political exigency arose in Enlightenment.
+
+(491) 8. Critique derives its energy from sources of indignation.
+(491) Forms of indignation may be regarded as emotional expressions of a meta-ethical anchorage, and concern infringements that are believed, at least implicitly, to affect people's possibilities of realizing their humanity.
+(491) If there is certainly no form of society without critique, critique as a political exigency is a product of the Enlightenment.
+
+Voice gets its due because prices cannot express all dissatisfaction.
+(492) To the extent that prices cannot focus all the reasons for satisfaction or dissatisfaction, capitalism is also bound to give voice its due.
+
+2. STEPS IN THE CHANGE IN THE SPIRIT OF CAPITALISM
+
+More complex rhetorical presentation after simple enumeration of axioms involves alternation of general moments of change and features of period studied in indented passages.
+
+Critique in the case of agreement on the important tests
+
+Tests of legitimacy during period involved unmasking infringements of justice in wage-profit relationship, legitimation of power asymmetries, and social selection.
+
+(492) Given the subject matter of our work, the formalized tests that interest us are in the main those through which capital accumulation and profit creation are pursued in forms that lay claim to legitimacy.
+(493) Critique unmasks infringements of justice in these tests. In particular, this unmasking consists in revealing the hidden forces that interfere with the test and exposing certain protagonists who, enjoying greater access to various resources, mobilize them unbeknownst to others, procuring an unwarranted advantage.
+
+The tightening-up of tests under the influence of critique
+
+Greater strictness of established tests produce unequal advantages and prompt amoral exploration of opportunities for alternative investment.
+
+(496) Even if, for reasons bound up with the legitimacy of the social order, it is difficult to oppose such a process head-on, it remains the case that greater strictness in the established tests is not to everyone's advantage.
+(496-497) Given that the established tests are invested with a high degree of legitimacy (from which the 'great' have hitherto benefited), the ability to realize that they have lost out on their interests, and that it is time to seek opportunities for alternative investment, other paths of profit involving different tests, thus presupposes a certain freedom with respect to morality – a variety of amoralism, often presented in the language of 'realism'.
+
+Displacements and circumventions of the established tests
+
+New capitalism uncoupled itself from the state, civic world and domestic arrangements, making nuclear family the boundary of private space.
+
+(500) Whereas the second spirit of capitalism operated in an era when the driving force was large national firms pursuing endogenous growth in a domestic market, which justified a stabilization of social relations by means of a national system of 'industrial relations' under state auspices, the new capitalism uncoupled itself from the state.
+(500-501) It was only in the second half of the 1970s, when the managers of firms sought to put an end to the expansion of the civic world by encouraging a management style more attentive to demands for autonomy and creativity, that the legitimacy of domestic forms of arrangement in firms and, more generally, outside the closed space of the nuclear family, began to crumble.
+
+Organizational shifts were not occult strategy of firms but experts.
+
+(501) The organizational shifts of the 1970s were certainly prepared by much thought and many studies on the part of experts – economics, sociologists, administration specialists – and specialist consultants or journalist, concerned to confront criticism.
+
+Beneficial interpretations of displacements had to be developed rhetorically.
+
+(502) Competitive pressure led to a fairly rapid diffusion of displacements. But an effort of interpretation, comparison and narration (often performed by consultants or in symposia, seminars, etc.) was required to define what seemed to have been beneficial, and to render local or circumstantial measures applicable elsewhere.
+
+Displacements find their initial elements of legitimacy by exploiting differentials between the critical forces
+
+Critique is not monolithic, it generates new ethical questions; capitalism like technology exploits ambiguity.
+
+(503) Critique is not monolithic. Thus, we have identified two major critical registers that have pursued their course since the mid-nineteenth century in different forms and subject to variation: the social critique and the artistic critique. . . . Finally, critique is no more immutable than capitalism. It is displaced in accordance with procedures of extension to new subjects of anxiety as to the fair or unfair character of everyday situations. It can therefore be focused on moments that had not hitherto been formalized in terms of tests, engaging beings whose suffering or unjust condition had not been registered.
+
+Capitalism exploits ambiguity.
+
+(503) Given this plurality, and the fact that critiques are sometimes contradictory, it is possible for displacements in capitalism to answer some demands while circumventing the tests that are of the utmost importance for another aspect of critique.
+
+Artistic and social critiques helped uncouple capitalism from the state, tradition, family, grand narrative.
+
+(504) If artistic critique thus directly contributed to undoing the industrial-domestic compromise that had been preserved in the previous period, it also served as a lever for uncoupling capitalism from the state.
+(505) The social critique of the 1930s, which had contributed to the formation of the second spirit of capitalism, had taken the anarchic character of capitalism, dominated by private interests, as its main target.
+
+The neutralization of the critique of established tests under the impact of displacements
+(506) Initially relying on well-tried normative forms, corresponding to earlier orders of legitimacy, denunciation and rebellion consequently lag behind the state of the tests that have issued from displacements, and on this account can always be disqualified as conservative, reactionary and backward looking.
+
+Hysteresis of critical mechanisms.
+
+(507) Critical mechanisms are established with difficulty, at the cost of great sacrifices and with a delay, in an isomorphic relation with the institutions on which they are intended to have some purchase. This isomorphism is, in a way, the condition of their effectiveness. They thus find themselves caught unawares by any rapid change in the modes of organization and forms of justification of the world to which they had to stick closely in order to become a party.
+
+Monopoly on accounting systems and Latour calculation centers creates asymmetries between workers and management.
+
+(507-508) Among the numerous asymmetries that place wage-earners in a weak position vis-a-vis managements, one of the main one stems from the ability to define accounting parameters and orchestrate them into calculation centers, to use Bruno Latour's phrase. The management of firms has a quasi-monopoly on this.
+
+Difficult to change accounting frameworks via critical mechanisms.
+
+(508) Critical mechanisms succeed in influencing the accounting framework only at the cost of considerable struggle and – albeit to a very unequal degree, depending on the country and the state's role in regulating social relations – by taking the form of a generally valid legal change.
+
+Displacements of capitalism render supervision of tests more difficult, such as by multiplying small calculation centers while maintaining integration of information at managerial level.
+
+(508) One of the most obvious effects of the displacements has been to render the supervision of tests on the ground much more difficult.
+(508-509) The multiplication of small calculation centers (as well as firms) has thus had the effect of obscuring the major divisions made over the whole of a production line (a 'branch', as it would be called in the language of the second spirit of capitalism). The 'breaking-up of capital into separate legal entities' has in fact proceeded in tandem with the preservation of a high level of integration of the 'structure of information' on the managerial side. For wage-earners, in contrast, the available information has become dispersed and the horizon restricted to the direct unit of integration, which is legally the direct employer, but without any decision-making autonomy. This situation explains why we have introduced into the mechanisms of the projective city those that aim to combine all the components of a network into an identifiable whole.
+
+Effect of information deficit on markets precipitated financial crisis.
+
+(509) Such is the information deficit on the markets that no one is in a position precisely to evaluate the general risk that these new financial products entail for the global economy, in particular as a result of commitments that far exceed the creditworthiness of the signatories.
+(509) Reliance on the law to defend the interests of the weakest stamps the critical organizations with a kind of conservatism that is alien to capitalism.
+
+The recovery of accumulation and the redeployment of capitalism
+
+The destructive effects of displacements and the imperilment of capitalism itself
+
+Capitalism has no reason to take account of general interests, leading to historical moments of revolution.
+
+(510) Released from control, without constraints, capitalism knows no criteria except the private interests of the strongest, and has no reason to take account of the general interest. No 'invisible hand' now intervenes to guide it when the institutions and agreements without which the market cannot function collapse.
+(510) Such historical moments, which may legitimately be characterized as 'revolutionary', are marked by profound alterations in the social world.
+
+Risk of disengagement by workers, creators, consumers, investors.
+
+(511) First and foremost, they involve the possibility of people disengaging. Even if it is temporarily stimulated by the surge in speculative profits, the accumulation process cannot proceed without the active participation of the greatest number of actors, mobilized either as workers or as creators of new products, or as consumers, or as investors whose confidence can be maintained only if they reckon themselves sufficiently protected from systemic risks.
+(511-512) But with the demoralization that it is bound to create, fear of unemployment risks ultimately inducing withdrawal.
+(512) Moreover, many of the social technologies on which the engagement of human beings at work currently relies require workers to be replenished and the young to be recruited.
+
+Risk of dealignment of capitalism and the state by displacements such a deregulation of financial markets and network forms of organization; capitalism relies on the state.
+
+(512) A second type of risk derives from the dealignment of capitalism and the state introduced by the displacements. Capitalism has never been able to survive without relying on the state, and it cannot do so today either.
+(512-513) It was this balance that was called into question when capitalism recaptured a margin of maneuver and put itself in a position to escape the coercive power of the state in large measure. This dynamic was based upon the deregulation of financial markets, which reduced the margin of financial maneuver possessed by states, and on the developing internationalization of large firms. The establishment of new 'network' forms of organization renders firms more flexible, and much less fragile than large national firms were and states still are.
+
+Impoverishment reduces consumption, creating risk; new spirit required from humanist viewpoint of reducing suffering and internal need to continue accumulation process.
+
+(513) The impoverishment brought about by capitalism's displacements constitutes another risk factor, in the shape of a reduction in consumption. . . . A capitalism that is no longer accompanied by an increase in the standard of living, especially of the poorest, loses its credibility.
+(513) In these conditions, the construction of a new spirit of capitalism becomes necessary not only from a humanist viewpoint – in order to limit the suffering produced by unbridled capitalism – but also from a standpoint that is, as it were, internal to the accumulation process, whose continuation it is a question of ensuring.
+
+Always new actors entering as consumers or producers.
+
+(513) However, the risks run by an unconstrained capitalism are mitigated by converse mechanisms, the main one being the constant entry of new actors as consumers or as producers, whose expectations have not yet been disappointed.
+(514) The tolerance of the privileged for the decaying of public spaces can thus extend quite a long way.
+
+The role of critique in the identification of dangers
+
+Critical movements from without inform capitalism of dangers.
+
+(514) The critical function (voice), which has no place within the capitalist firm, where regulation is supposed to be performed exclusively by competition (exit), can be exercised only from without. Hence it is critical movements that inform capitalism about the dangers threatening it.
+(515) It is in fact equipped with mechanisms of vigilance other than automatic market reflexes: bodies which supervise and orchestrate the market so that prices contain maximum information, calculation centers that provide information on the state of critique, or co-ordinating bodies.
+
+The revival of critique
+
+Destructive effects of unconstrained capitalism revive critique.
+
+(516) Even ignoring factors on the side of critique that favor its durability, the destructive effects of an unconstrained capitalism by themselves create favorable terrain for the revival of critique.
+(516) Gradually, interpretative schemas are reconstructed that make it possible to make sense of the changes that are under way, paving the way for a more precise critique of the new tests and the formulation of demands and proposals whose horizon is justice.
+
+Interpretative schemas sought by critics in conjunction with firms and consultants, such as development of network metaphor for connexionism that new spirit of capitalism mobilized.
+
+(517) The search for new interpretative schemas was conducted together with the representatives of firms, consultants and those responsible for training the people who already worked there or would soon join them: they cannot retain their credibility for very long if they do not offer a map of the new world.
+(517) Thus, normative discourses and critical analyses gradually converged on the metaphor of the network which, although initially developed in complete autonomy from the capitalist process, found itself mobilized by it. On what remained of the civic-industrial and domestic-industrial compromise was established the kind of world that we have dubbed connexionist, rather than market strictly speaking.
+
+Critique contributed theory of exploitation of little people by responsible great men.
+
+(518) Critique's specific contribution is similar to a theory of exploitation tailored to the new world, which makes it possible to link the good fortune of the great men to the misfortune of the little people, and to instill in the former a sense of responsibility for the lot of the less privileged. In the absence of this link made by critique, it is not clear how a different world could be achieved that is less destructive of human destinies (not to mention 'resources').
+
+New protest mechanisms coming ahead of critique tend to become isomorphic to objects to which they are applied, such as cool studies.
+
+(518) The revival of critique accompanies – but always after some delay – the appearance of new kinds of protest mechanisms more attuned to the emergent forms of capitalism, in accordance with the principle of critique, in seeking to be effective, tends to become isomorphic with the objects it is applied to.
+(519) Capitalist accumulation has indeed revived, but at the price of a legitimacy deficit. At the same time, deprived of the grounds and incentives that hitherto sustained their participation in the accumulation process and the pursuit of profit, a growing number of people find themselves plunged into a state of dissatisfaction and anxiety, which predisposes them to be receptive to critique.
+
+The construction of new mechanisms of justice
+
+Cities as metaphor for general orders of justification, normative fulcra with which capitalism must compromise.
+
+(519) When it exerts sufficient pressure, the revival of critique leads to the creation of new normative fulcra with which capitalism must compromise. This compromise asserts itself in the expression of a new form of the spirit of capitalism which, like those preceding it, contains exigencies of justice and which, in order to sustain its claims to legitimacy, must rely on very general orders of justification, which we have identified under the name of cities.
+
+External force of law backed up by coercive state required to establish new mechanisms of justice, not force of critique alone.
+
+(519) If new mechanisms of justice are to be established, and test procedures are to be respected, an external force is required – law, backed up by an apparatus of coercion that has hitherto belonged to states. In other words, the possibility of capitalism constraining itself does not depend only on the force of critique.
+(519) It might likewise be thought that a responsible public policy would be to help ensure the conditions of possibility for critique to exercise such vigilance, by allowing those who suffer most from the new conditions to be represented in political debate, and subsidizing independent centers of calculation able to construct and diffuse data about the effects of the dramatic change in the world in the sphere of neo-capitalism.
+
+The formation of cities
+
+City as metaphysical political entity and symptom: on lifecycle of cities think of Sim City games providing philosophical finesse of simulation tests in virtual realities.
+
+(520) Cities are metaphysical political entities which, by the same token as cultures or languages, have a historical existence, and can therefore be situated in time and space. Accordingly, it is relevant to grasp them in their life-span, their evolution, from the moment of their formation, via their entrenchment in mechanisms, objects and law, up to their recession. At a given historical moment, a form of existence is identified and generalized in such a way as to serve as a support from a definition of the common good and a criterion for judgments about the value of beings, according to the contribution they make to the good of all thus conceived.
+
+Emergent justification by established group having consolidated its power leading to theoretical formulation of new form of common good they contribute: worlds precede cities.
+
+(521) A city thus has a chance of being established when a group of actors, relying on a stable world of mechanisms and objects, sees its power consolidated, in such a way that its members feel that they are in a position to demand exclusive recognition, and pride themselves on a specific contribution to the common good, without having to assert or even excuse the strength acquired in the sphere they excel in by undertaking other, more acceptable virtuous activities. They can then seek to elaborate for themselves, and get others to recognize, a value, a status, which specifically defines the way they have a grip on the world, and give it a moral dimension. It is only then that the work of theoretical formulation is carried out (formerly pertaining to moral and political philosophy, and today, in large measure, to the social sciences) which makes the basis for a new form of common good. To put it in the language of De la justification, worlds precede cities. And this is so even if the dynamic leading up to the formation of a city may be understood, somewhat in the logic of the hermeneutic circle, as a moment in a process of reflexivity whereby a certain form of existence acquires a meaning, and a certain world equips itself with a coherence and a style.
+
+Mediation professionals forming projective city performing social integration employing techniques of network logic.
+
+(522) Conception of the mechanisms relevant to a projective city has found support among professionals in mediation, who have proliferated in these last ten years, especially those of them who have developed an activity – whether paid or unpaid, professional or voluntary – as social integration intermediaries, employing techniques that call on network logic.
+
+Formation of city as transition to regime of categorization, operators of justification and tests.
+
+(522) The formation of a city can be described at the most general level by the gradual transition to a regime of categorization. . . . Once a city is established, a more ordered world, comprising great men and little people, replaces a chaotic universe, with its strong and its weak.
+(522) Cities are thus simultaneously operators of justification and critical operators. On the one hand, each city serves as a fulcrum for criticizing tests organized in accordance with the logic of a different city. On the other, each displays a critical orientation directed against the bad practices of the specific world containing the reality tests that are pertinent from the standpoint of this city itself.
+
+City as self-referential critical mechanism limits strength.
+
+(523) Hence the city appears as a self-referential critical mechanism, internal to and immanent in a world that is in the process of coming into being, and must limit itself if it is to last. One of the key characteristics of the order of cities is that it puts limits on the strength of the strong and declares them to be great (legitimate, authorized to exhibit and employ their strength) only if they internalize these limits and observe them.
+(523) In the current period, the constitution of a projective city takes responsibility for legitimating the tests that are effective in a connexionist world and justifying the new forms of success and failure specific to this world.
+
+Utopian and dystopian outlooks of successful formation of projective city or increasing degradation, inequality, and political nihilism.
+
+(523) For all this, this possibility is only one of the outcomes that can be envisaged for the ideological crisis of capitalism. Another possibility, which cannot be excluded either, is increasing degradation in the conditions of existence of the greatest number, rising social inequality, and the generalization of a kind of political nihilism.
+
+
+
+Boltanksi, Luc and Eve Chiapello. The New Spirit of Capitalism. Trans. Gregory Elliott. New York: Verso, 2005. Print.

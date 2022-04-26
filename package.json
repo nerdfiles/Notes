@@ -1,0 +1,19 @@
+{
+  "name": "Notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "timelines/home" : "node auth.js | /Users/nerdfiles/Utilities/jq-osx-amd64 '.[][].content'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.1",
+    "got": "^12.0.4",
+    "mastodon": "^1.2.2",
+    "mastodon-api": "^1.3.0",
+    "oauth": "^0.9.15"
+  }
+}
