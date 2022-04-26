@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "timelines/home" : "node auth.js | /Users/nerdfiles/Utilities/jq-osx-amd64 '.[][].content'"
+    "help": "echo 'run $ phraser.roll timelines--home.md'",
+    "timelines/home/collect": "node auth.js | /Users/nerdfiles/Utilities/jq-osx-amd64 '.[][].content' >> timelines--home.md && cp ./timelines--home.md $HOME/Projects/four-word-phrase/example",
+    "timelines/home": "node auth.js | /Users/nerdfiles/Utilities/jq-osx-amd64 '.[][].content' > timelines--home.md && cp ./timelines--home.md $HOME/Projects/four-word-phrase/example"
   },
   "keywords": [],
   "author": "",
