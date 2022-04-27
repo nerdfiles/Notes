@@ -1,11 +1,23 @@
+/**
+ * @name auth
+ * @description
+ * calling mastodon api for various tlds
+ * @example https://mastodon.example/api/v1/instance
+ * @example https://mastodon.example/api/v2/search
+ * @example https://mastodon.example/oauth/token # mastodon-api handles this
+ */
 const Mastodon = require('mastodon-api')
+const R = require('ramda')
+const curry = R.curry
+
+require('dotenv').config()
+const env = process.env
 
 const conf = (version) => ({
   'api_url': "https://mastodon.technology/api/v" + version + "/",
-	'access_token': 'bFwq_ZqtCRsMP2Yun1cQfMB4ugkuz3Ph2dgTxz4Bp_I',
+	'access_token': env.access_token,
   TIMEOUT: 60 * 1000
 })
-
 
 const mode = (v) => {
   const _conf = conf(v)
